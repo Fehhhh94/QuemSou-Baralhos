@@ -1,0 +1,524 @@
+{
+  "id": "cinema-classico-1",
+  "nome": "Cinema Clássico — Edição 1",
+  "categoria": "PERSONAGEM_FILME",
+  "colecao": {
+    "id": "cinema-classico",
+    "nome": "Cinema Clássico",
+    "icone": "🎬"
+  },
+  "versao": 1,
+  "estado": "FINALIZADO",
+  "cards": [
+    {
+      "id": "pf_001",
+      "type": "PESSOA",
+      "answer": "Harry Potter",
+      "clues": [
+        "Minha história começa numa noite de tempestade.",
+        "Perdi meus pais ainda muito jovem.",
+        "Fui criado por parentes que não me queriam por perto.",
+        "Vivo debaixo da escada da casa deles.",
+        "Uma carta muda tudo, mas não chega até mim com facilidade.",
+        "Descubro que pertenço a um mundo escondido dos outros.",
+        "Uma cicatriz no meu rosto tem uma história e tanto.",
+        "Ganho amigos leais logo na primeira viagem de trem.",
+        "Um chapéu velho decide onde vou morar.",
+        "Meu esporte favorito se joga voando em vassouras."
+      ]
+    },
+    {
+      "id": "pf_002",
+      "type": "PESSOA",
+      "answer": "Darth Vader",
+      "clues": [
+        "Venho de uma galáxia muito, muito distante.",
+        "Uso uma respiração que dá pra ouvir de longe.",
+        "Praticamente todo o meu corpo é mecânico.",
+        "Já fui bom, antes de escolher o lado sombrio.",
+        "Comando uma frota temida em todo o universo.",
+        "Meu capacete nunca sai da minha cabeça.",
+        "Tenho uma ligação de sangue com o herói da história.",
+        "Uma espada de luz é minha arma preferida.",
+        "Minha respiração pesada é praticamente minha marca registrada.",
+        "Descobri tarde demais que meu filho lutava do outro lado."
+      ]
+    },
+    {
+      "id": "pf_003",
+      "type": "PESSOA",
+      "answer": "Sherlock Holmes",
+      "clues": [
+        "Moro na cidade de Londres, num endereço bem específico.",
+        "Tenho um parceiro que registra minhas aventuras por escrito.",
+        "Toco violino quando preciso pensar.",
+        "Uso um cachimbo e um chapéu de caça bem reconhecíveis.",
+        "Reparo em detalhes que ninguém mais nota.",
+        "Tenho um arquiinimigo tão inteligente quanto eu.",
+        "Trabalho como detetive particular, não da polícia oficial.",
+        "Uso a frase \"elementar\" com frequência.",
+        "Meu endereço é Baker Street, número 221B.",
+        "Meu irmão mais velho trabalha para o governo britânico e é ainda mais inteligente do que eu."
+      ]
+    },
+    {
+      "id": "pf_004",
+      "type": "PESSOA",
+      "answer": "Indiana Jones",
+      "clues": [
+        "Adoro chapéus, mas o meu tem estilo próprio.",
+        "Sou professor na maior parte do tempo.",
+        "Tenho medo de cobras.",
+        "Uso um chicote como ferramenta principal.",
+        "Corro de pedras gigantes rolando atrás de mim.",
+        "Procuro relíquias antigas e perdidas pelo mundo.",
+        "Enfrento nazistas em mais de uma aventura.",
+        "Uma arca sagrada é um dos meus achados mais famosos.",
+        "Meu pai também é professor, e nossas brigas em aventura são lendárias.",
+        "Sou o arqueólogo aventureiro interpretado por Harrison Ford."
+      ]
+    },
+    {
+      "id": "pf_005",
+      "type": "PESSOA",
+      "answer": "Forrest Gump",
+      "clues": [
+        "Cresci correndo, literalmente, minha vida inteira.",
+        "Uma caixa de chocolates é uma metáfora que uso bastante.",
+        "Não sou o mais rápido para entender as coisas, mas o coração compensa.",
+        "Corri por motivos que nem eu sabia explicar direito.",
+        "Joguei ping-pong e futebol americano com talento inesperado.",
+        "Minha mãe sempre teve frases sábias pra me ensinar.",
+        "Amei a mesma mulher a vida toda, de longe.",
+        "Um estado do sul dos EUA é onde minha história se passa.",
+        "Ganhei uma medalha por bravura na guerra do Vietnã.",
+        "Minha frase mais famosa é sobre a vida ser como uma caixa de chocolates."
+      ]
+    },
+    {
+      "id": "pf_006",
+      "type": "PESSOA",
+      "answer": "Shrek",
+      "clues": [
+        "Verde não é só a cor da minha pele, é meu estilo de vida.",
+        "Moro num pântano e gosto assim.",
+        "Meu melhor amigo fala demais e tem quatro patas.",
+        "Resgatei uma princesa que escondia um segredo parecido com o meu.",
+        "Ogros são como cebolas: têm camadas.",
+        "Minha história começa com um livro de contos de fadas sendo usado no banheiro.",
+        "Um lorde baixinho invadiu meu pântano de criaturas mágicas.",
+        "Casei e tive filhos que puxaram ao pai.",
+        "Prefiro ficar sozinho, mas a vida insiste em me dar companhia.",
+        "Meu filme ganhou o primeiro Oscar de animação da história."
+      ]
+    },
+    {
+      "id": "pf_007",
+      "type": "PESSOA",
+      "answer": "Dory",
+      "clues": [
+        "Sou dona de uma memória que dura segundos.",
+        "Azul é a minha cor da cabeça ao rabo.",
+        "Falo a língua das baleias — ou pelo menos tento.",
+        "Ajudei um pai desesperado a atravessar o oceano.",
+        "Esquecer é meu maior defeito e minha maior graça.",
+        "\"Continue a nadar\" é meu lema de vida.",
+        "No meu segundo filme, virei a protagonista procurando meus pais.",
+        "Moro no oceano, perto de um recife colorido.",
+        "P. Sherman, 42 Wallaby Way, Sydney — nunca esqueci esse endereço, ironicamente.",
+        "Meu melhor amigo é um peixe-palhaço superprotetor."
+      ]
+    },
+    {
+      "id": "pf_008",
+      "type": "LUGAR",
+      "answer": "Estrela da Morte",
+      "clues": [
+        "Fico numa galáxia distante, mas todo mundo me conhece.",
+        "Sou redonda como uma lua — e já fui confundida com uma.",
+        "Meu tamanho é de assustar: quilômetros e quilômetros de diâmetro.",
+        "Um raio meu pode apagar um planeta inteiro.",
+        "Fui construída duas vezes, e destruída duas vezes também.",
+        "Tenho um ponto fraco pequeno demais para o meu tamanho.",
+        "Um fazendeiro de um planeta deserto causou minha primeira explosão.",
+        "Sou a arma definitiva de um império.",
+        "Milhares de soldados de armadura branca circulam pelos meus corredores.",
+        "\"Isso não é uma lua\" é a frase mais famosa sobre mim."
+      ]
+    },
+    {
+      "id": "pf_009",
+      "type": "COISA",
+      "answer": "O Um Anel (O Senhor dos Anéis)",
+      "clues": [
+        "Sou pequeno, redondo e dourado.",
+        "Quem me carrega por muito tempo nunca sai ileso.",
+        "Fui forjado dentro de uma montanha de fogo.",
+        "Sussurro promessas para quem me possui.",
+        "Deixo invisível quem me veste.",
+        "Um ser corcunda e magrelo me chama de \"precioso\".",
+        "Minha inscrição só aparece quando me esquentam.",
+        "Uma jornada inteira existe só para me destruir.",
+        "Passei décadas perdido no fundo de um lago.",
+        "Hobbits pequenos carregaram um peso que reis não aguentariam: eu."
+      ]
+    },
+    {
+      "id": "pf_010",
+      "type": "PESSOA",
+      "answer": "Capitão América",
+      "clues": [
+        "Sou do Brooklyn e nunca escondi isso.",
+        "Já fui pequeno e fraco, hoje sou símbolo de força.",
+        "Um experimento científico mudou meu corpo para sempre.",
+        "Passei décadas congelado e acordei em outro século.",
+        "Meu escudo é mais famoso que muita arma por aí.",
+        "Lidero uma equipe de heróis que vive salvando o mundo.",
+        "Listras e estrelas fazem parte do meu uniforme.",
+        "Enfrentei um vilão de rosto vermelho na minha primeira guerra.",
+        "Sou considerado o mais certinho do meu grupo — e me orgulho disso.",
+        "Já fui considerado digno de erguer um martelo que quase ninguém consegue."
+      ]
+    },
+    {
+      "id": "pf_011",
+      "type": "PESSOA",
+      "answer": "Buzz Lightyear",
+      "clues": [
+        "Cheguei achando que era um herói espacial de verdade.",
+        "Descobrir que eu era um brinquedo foi minha maior crise existencial.",
+        "Tenho asas, mas por muito tempo achei que voava — na verdade, caio com estilo.",
+        "Meu rival virou meu melhor amigo.",
+        "Aperte um botão em mim e eu solto minha frase de efeito.",
+        "Um comando espacial fictício é meu \"empregador\".",
+        "Pertenço a um menino chamado Andy.",
+        "Meu traje é branco com detalhes verdes e roxos.",
+        "Fui o presente de aniversário que bagunçou a hierarquia do quarto.",
+        "Minha frase mais famosa fala em ir \"ao infinito\" — e mais longe ainda."
+      ]
+    },
+    {
+      "id": "pf_012",
+      "type": "LUGAR",
+      "answer": "Hogwarts",
+      "clues": [
+        "Sou uma escola, mas nenhum aluno chega a mim de ônibus.",
+        "Minhas escadas mudam de lugar quando querem.",
+        "Os quadros nas minhas paredes conversam e visitam uns aos outros.",
+        "Um chapéu decide em qual das minhas quatro casas cada aluno vai morar.",
+        "Fico num castelo escondido em algum lugar da Escócia.",
+        "Meu esporte oficial é jogado no ar.",
+        "Tenho um salão principal cujo teto imita o céu lá fora.",
+        "Alunos chegam a mim por um trem que parte de uma plataforma que não deveria existir.",
+        "Uma floresta proibida faz parte dos meus terrenos.",
+        "Meu diretor mais famoso tem barba longa e adora doces trouxas."
+      ]
+    },
+    {
+      "id": "pf_013",
+      "type": "COISA",
+      "answer": "DeLorean (De Volta para o Futuro)",
+      "clues": [
+        "Sou um carro, mas meu talento não é velocidade... ou melhor, é uma velocidade bem específica.",
+        "Minhas portas abrem para cima, feito asas.",
+        "Preciso atingir 88 milhas por hora para fazer minha mágica.",
+        "Fui inventado por um cientista de cabelo desgrenhado.",
+        "Sou movido a plutônio — depois aprendi a aceitar lixo como combustível.",
+        "Deixo rastros de fogo no chão quando funciono.",
+        "Um painel com três datas é meu coração.",
+        "Levei um adolescente para conhecer os próprios pais jovens.",
+        "Sou um modelo real dos anos 80 que fracassou nas lojas e virou lenda no cinema.",
+        "Viajar no tempo é literalmente minha função."
+      ]
+    },
+    {
+      "id": "pf_014",
+      "type": "PESSOA",
+      "answer": "Jack Sparrow",
+      "clues": [
+        "Ando como se o chão estivesse sempre balançando.",
+        "Meu navio é minha obsessão — e vivo perdendo ele.",
+        "Delineador borrado e dreadlocks fazem parte do meu visual.",
+        "Prefiro fugir com estilo a lutar com honra.",
+        "Uma bússola que não aponta para o norte é meu tesouro.",
+        "Rum é meu combustível favorito, e vivo perguntando por que ele acabou.",
+        "Sou capitão, e faço questão do título mesmo sem navio.",
+        "Já enganei a Marinha Real, piratas amaldiçoados e até a morte.",
+        "Minha primeira aparição icônica é chegando ao porto num barco afundando.",
+        "Meus inimigos incluem um polvo gigante e um capitão com tentáculos no rosto."
+      ]
+    },
+    {
+      "id": "pf_015",
+      "type": "PESSOA",
+      "answer": "Rocky Balboa",
+      "clues": [
+        "Sou da Filadélfia e minha cidade tem uma estátua minha.",
+        "Comecei como cobrador de agiota antes da minha grande chance.",
+        "Subir escadarias virou meu treino mais famoso.",
+        "Bato em carne pendurada como treinamento.",
+        "Meu apelido é \"Garanhão Italiano\".",
+        "Perdi minha primeira grande luta, mas ganhei o mundo.",
+        "Adrian é o nome que grito no meu momento mais famoso.",
+        "Meu treinador rabugento se chamava Mickey.",
+        "Minha história rendeu uma das trilhas sonoras mais motivacionais do cinema.",
+        "Anos depois, virei treinador do filho do meu maior rival e amigo."
+      ]
+    },
+    {
+      "id": "pf_016",
+      "type": "PESSOA",
+      "answer": "Simba",
+      "clues": [
+        "Nasci para ser rei, mas fugi de casa ainda filhote.",
+        "Meu tio armou a maior traição da minha vida.",
+        "Cresci comendo insetos com dois amigos improváveis.",
+        "\"Sem preocupações\" virou minha filosofia por anos.",
+        "A morte do meu pai me marcou — e não foi acidente.",
+        "Uma savana africana é o meu reino.",
+        "Vi o rosto do meu pai refletido nas estrelas e na água.",
+        "Minha apresentação ao mundo foi no alto de uma pedra, erguido por um macaco sábio.",
+        "Voltei adulto para retomar o trono que era meu.",
+        "Sou um leão, e minha história é um clássico da Disney."
+      ]
+    },
+    {
+      "id": "pf_017",
+      "type": "PESSOA",
+      "answer": "Coringa",
+      "clues": [
+        "Meu sorriso é permanente, mas não é de alegria.",
+        "Caos é meu plano favorito — ou a falta de um.",
+        "Gotham me conhece bem demais.",
+        "Sou o arquiinimigo de um herói vestido de morcego.",
+        "Cabelo verde e terno roxo são meu figurino.",
+        "Já fui interpretado por atores que ganharam Oscar no papel.",
+        "Uma risada é minha marca registrada.",
+        "\"Por que tão sério?\" é uma pergunta que fiz e o mundo nunca esqueceu.",
+        "Minha origem muda a cada versão — e eu gosto assim.",
+        "Cartas de baralho têm tudo a ver com meu nome."
+      ]
+    },
+    {
+      "id": "pf_018",
+      "type": "PESSOA",
+      "answer": "E.T.",
+      "clues": [
+        "Vim de longe e fiquei preso na Terra sem querer.",
+        "Um menino me escondeu no quarto dele.",
+        "Meu dedo brilha, e curo machucados com ele.",
+        "Aprendi a falar poucas palavras da língua humana.",
+        "Minha frase mais famosa é um pedido para ligar para casa.",
+        "Uma bicicleta voadora com uma cesta virou cena eterna do cinema por minha causa.",
+        "Me fantasiaram de fantasma para me esconder no Halloween.",
+        "Doces coloridos foram a isca que me atraiu.",
+        "Meu pescoço estica de um jeito nada humano.",
+        "Sou baixinho, enrugado e vim do espaço."
+      ]
+    },
+    {
+      "id": "pf_019",
+      "type": "COISA",
+      "answer": "Titanic",
+      "clues": [
+        "Fui chamado de inafundável — e o destino não gostou da piada.",
+        "Minha primeira viagem também foi a última.",
+        "Parti da Inglaterra rumo a Nova York em 1912.",
+        "Um bloco de gelo mudou minha história para sempre.",
+        "Não havia botes suficientes para todos a bordo.",
+        "Um casal fictício no meu convés fez o mundo inteiro chorar.",
+        "Meu filme levou 11 estatuetas do Oscar.",
+        "A trilha do meu filme tem uma canção da Celine Dion que tocou no mundo inteiro.",
+        "Repouso no fundo do Atlântico até hoje.",
+        "Uma cena na minha proa, de braços abertos, virou símbolo do romance no cinema."
+      ]
+    },
+    {
+      "id": "pf_020",
+      "type": "LUGAR",
+      "answer": "Wakanda",
+      "clues": [
+        "Para o mundo, sou um país pobre e isolado.",
+        "Minha maior riqueza é um metal que caiu do céu.",
+        "Fico na África, mas não me procure no mapa.",
+        "Minha tecnologia é a mais avançada do planeta — em segredo.",
+        "Um rei que veste um traje felino me governa.",
+        "\"Para sempre\" acompanha meu nome num grito de guerra.",
+        "Uma guarda real formada só por mulheres me protege.",
+        "Um campo de força me esconde dos olhos do mundo.",
+        "Panteras têm tudo a ver com meu trono.",
+        "Sou uma nação fictícia do universo Marvel."
+      ]
+    },
+    {
+      "id": "pf_021",
+      "type": "PESSOA",
+      "answer": "Neo (Matrix)",
+      "clues": [
+        "De dia eu era um programador comum; de noite, um hacker.",
+        "Uma escolha entre duas pílulas mudou minha vida.",
+        "Descobri que o mundo em que vivia não era real.",
+        "Desvio de balas em câmera lenta como ninguém.",
+        "Me chamam de \"o Escolhido\".",
+        "Um homem de óculos escuros e terno me persegue — e se multiplica.",
+        "Aprendi kung fu em segundos, baixado direto no cérebro.",
+        "Meu mentor usa óculos sem hastes e acredita em mim mais do que eu mesmo.",
+        "Máquinas usam humanos como baterias no meu mundo.",
+        "Meu nome de batismo é Thomas Anderson."
+      ]
+    },
+    {
+      "id": "pf_022",
+      "type": "PESSOA",
+      "answer": "Elsa (Frozen)",
+      "clues": [
+        "Nasci com um poder que aprendi a esconder.",
+        "Luvas eram minha prisão diária.",
+        "Congelei o verão do meu reino sem querer.",
+        "\"Livre estou\" é o hino da minha libertação.",
+        "Construí um palácio inteiro de gelo em uma noite.",
+        "Minha irmã atravessou uma nevasca para me salvar.",
+        "Um boneco de neve simpático nasceu da minha magia.",
+        "Sou rainha de um reino chamado Arendelle.",
+        "Meu vestido azul virou fantasia de milhões de crianças.",
+        "Um ato de amor verdadeiro descongelou o que eu tinha feito."
+      ]
+    },
+    {
+      "id": "pf_023",
+      "type": "PESSOA",
+      "answer": "Po (Kung Fu Panda)",
+      "clues": [
+        "Sou gordinho, desajeitado e virei lenda.",
+        "Meu pai adotivo é um ganso dono de restaurante de macarrão.",
+        "Fui escolhido como guerreiro por acidente — ou destino.",
+        "Como demais quando fico nervoso, ou seja, sempre.",
+        "Cinco mestres animais duvidaram de mim no começo.",
+        "Um mestre pequeno e vermelho me treinou usando comida.",
+        "O segredo do pergaminho sagrado é que não há segredo.",
+        "Sou um urso em preto e branco, fã número um de artes marciais.",
+        "Meu golpe mais famoso envolve segurar o dedo mindinho do oponente.",
+        "Vim da China, direto para o coração do público."
+      ]
+    },
+    {
+      "id": "pf_024",
+      "type": "LUGAR",
+      "answer": "Jurassic Park (Parque dos Dinossauros)",
+      "clues": [
+        "Sou um parque, mas nenhuma criança deveria ter entrado em mim.",
+        "Minha atração principal foi extinta há 65 milhões de anos.",
+        "Fico numa ilha isolada, longe do continente.",
+        "A ciência me criou a partir de um mosquito preso no âmbar.",
+        "\"A vida encontra um caminho\" foi dito sobre mim — e estava certo.",
+        "Meus portões gigantes de madeira viraram ícone do cinema.",
+        "Minhas cercas elétricas falharam na pior hora possível.",
+        "Um tiranossauro fugiu do meu controle na estreia.",
+        "Fui idealizado por um velhinho sonhador com uma bengala de âmbar.",
+        "Dinossauros vivos eram minha promessa de ingresso."
+      ]
+    },
+    {
+      "id": "pf_025",
+      "type": "PESSOA",
+      "answer": "Batman",
+      "clues": [
+        "Perdi meus pais numa noite que definiu quem eu sou.",
+        "De dia, sou um bilionário; de noite, outra coisa.",
+        "Não tenho superpoderes — tenho dinheiro, treino e trauma.",
+        "Um mordomo fiel é meu maior aliado.",
+        "Moro numa mansão com um segredo embaixo dela.",
+        "Um sinal luminoso no céu me convoca.",
+        "Gotham é a cidade que jurei proteger.",
+        "Meu carro é tão famoso quanto eu.",
+        "Um animal noturno inspirou meu disfarce e meu nome.",
+        "Um palhaço criminoso é meu inimigo eterno."
+      ]
+    },
+    {
+      "id": "pf_026",
+      "type": "PESSOA",
+      "answer": "Katniss Everdeen",
+      "clues": [
+        "Aprendi a caçar para alimentar minha família.",
+        "Me voluntariei para morrer no lugar da minha irmã.",
+        "Arco e flecha são extensão do meu corpo.",
+        "Venho do distrito mais pobre do meu país.",
+        "Um programa de TV mortal me tornou famosa.",
+        "\"Tordo\" é o símbolo que carrego — e que virou revolução.",
+        "Um broche dourado com um pássaro me acompanha.",
+        "Fingi um romance para sobreviver... ou será que fingi?",
+        "Três dedos erguidos viraram saudação por minha causa.",
+        "Sobrevivi a uma arena que queria me matar — duas vezes."
+      ]
+    },
+    {
+      "id": "pf_027",
+      "type": "LUGAR",
+      "answer": "Pandora (Avatar)",
+      "clues": [
+        "Minhas florestas brilham no escuro.",
+        "Montanhas flutuam no meu céu.",
+        "Sou uma lua, não um planeta.",
+        "Meus habitantes são azuis e altos.",
+        "Humanos vieram até mim atrás de um minério valioso.",
+        "Meu ar é tóxico para visitantes sem máscara.",
+        "Uma árvore gigante e sagrada conecta toda a minha vida.",
+        "Cavalgar criaturas voadoras é rito de passagem por aqui.",
+        "Meus nativos se conectam à natureza por uma trança.",
+        "O filme sobre mim foi por anos a maior bilheteria da história."
+      ]
+    },
+    {
+      "id": "pf_028",
+      "type": "PESSOA",
+      "answer": "Homem-Aranha",
+      "clues": [
+        "Um inseto... aliás, um aracnídeo mudou minha vida com uma picada.",
+        "Sou de Nova York, do Queens, e me orgulho.",
+        "Equilibro lição de casa e salvar a cidade.",
+        "Minha tia me criou depois que perdi meus pais.",
+        "\"Com grandes poderes vêm grandes responsabilidades\" — aprendi do pior jeito.",
+        "Fotografo o herói da cidade... que sou eu mesmo.",
+        "Meu sexto sentido avisa quando o perigo chega.",
+        "Balanço entre prédios pendurado em teias.",
+        "Meu uniforme é vermelho e azul, colado no corpo.",
+        "Sou o herói adolescente mais famoso dos quadrinhos e do cinema."
+      ]
+    },
+    {
+      "id": "pf_029",
+      "type": "COISA",
+      "answer": "Wilson (a bola de Náufrago)",
+      "clues": [
+        "Sou redondo e virei o melhor amigo de um homem.",
+        "Nasci numa fábrica de artigos esportivos.",
+        "Uma mão ensanguentada me deu um rosto.",
+        "Passei anos numa ilha deserta sem reclamar.",
+        "Sou a prova de que a solidão faz a gente conversar com qualquer coisa.",
+        "Meu \"dono\" era funcionário de uma empresa de entregas.",
+        "Me perdi no mar, e o mundo inteiro chorou por uma bola.",
+        "Meu nome é o da marca estampada em mim.",
+        "Um avião caiu para que minha história começasse.",
+        "Sou uma bola de vôlei que virou personagem de cinema."
+      ]
+    },
+    {
+      "id": "pf_030",
+      "type": "PESSOA",
+      "answer": "Mulher-Maravilha",
+      "clues": [
+        "Venho de uma ilha onde não existem homens.",
+        "Sou uma princesa guerreira, filha de rainha.",
+        "Um laço dourado obriga quem eu prender a dizer a verdade.",
+        "Braceletes nos meus pulsos param balas.",
+        "Deuses gregos fazem parte da minha origem.",
+        "Saí do meu paraíso para lutar numa guerra mundial.",
+        "Sou uma das heroínas mais antigas dos quadrinhos.",
+        "Uma tiara dourada completa meu uniforme.",
+        "Faço parte de uma liga de heróis famosa.",
+        "Meu nome junta uma palavra de gênero e uma de espanto."
+      ]
+    }
+  ]
+}

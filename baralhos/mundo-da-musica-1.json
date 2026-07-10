@@ -1,0 +1,524 @@
+{
+  "id": "mundo-da-musica-1",
+  "nome": "Mundo da Música — Edição 1",
+  "categoria": "MUNDO_DA_MUSICA",
+  "colecao": {
+    "id": "mundo-da-musica",
+    "nome": "Mundo da Música",
+    "icone": "🎸"
+  },
+  "versao": 1,
+  "estado": "FINALIZADO",
+  "cards": [
+    {
+      "id": "mm_001",
+      "type": "PESSOA",
+      "answer": "Xuxa",
+      "clues": [
+        "Nasci no Brasil, mas conquistei o mundo inteiro.",
+        "Comecei a carreira ainda criança, ao lado da minha família.",
+        "Minha voz é considerada uma das mais potentes do país.",
+        "Sou conhecida por uma cor no meu nome artístico... ou quase isso.",
+        "Fiz história em novelas antes de dominar os palcos.",
+        "\"Rainha dos baixinhos\" é o apelido que me acompanha há décadas.",
+        "Meus programas de TV marcaram gerações de crianças.",
+        "Tenho uma nave como marca registrada dos meus shows.",
+        "Meu nome verdadeiro é Maria da Graça.",
+        "Comandei o programa infantil de maior audiência da TV brasileira."
+      ]
+    },
+    {
+      "id": "mm_002",
+      "type": "PESSOA",
+      "answer": "Paul McCartney",
+      "clues": [
+        "Minha carreira começou numa cidade portuária da Inglaterra.",
+        "Éramos quatro, e mudamos a música pop para sempre.",
+        "Toco baixo, mas canto tanto quanto componho.",
+        "Sou canhoto, e isso aparece no palco.",
+        "Escrevi uma das músicas mais regravadas da história, sonhando com ela.",
+        "Depois do fim da banda, formei outra com minha esposa.",
+        "\"Yesterday\" e \"Hey Jude\" saíram da minha caneta.",
+        "Fui nomeado cavaleiro pela rainha da Inglaterra.",
+        "Meu parceiro de composição mais famoso foi John Lennon.",
+        "Dos quatro de Liverpool, sou o que segue lotando estádios até hoje."
+      ]
+    },
+    {
+      "id": "mm_003",
+      "type": "COISA",
+      "answer": "Guitarra",
+      "clues": [
+        "Tenho cordas, mas não sou para amarrar nada.",
+        "Existo em versão acústica e elétrica.",
+        "Sou provavelmente o instrumento mais popular do mundo.",
+        "Rock, sertanejo, MPB: estou em quase todo estilo.",
+        "Tenho um braço, mas não tenho mãos.",
+        "Meu corpo pode ser oco ou maciço.",
+        "Normalmente tenho seis cordas, mas existo com sete ou doze.",
+        "Jimi Hendrix me tocava até com os dentes.",
+        "Solos épicos de rock geralmente nascem em mim.",
+        "Sou o instrumento que todo adolescente sonha em tocar na garagem."
+      ]
+    },
+    {
+      "id": "mm_004",
+      "type": "LUGAR",
+      "answer": "Woodstock",
+      "clues": [
+        "Recebo multidões que chegam dispostas a acampar por dias.",
+        "Lama e chuva fazem parte da minha lenda.",
+        "Nasci em 1969 e virei símbolo de uma geração.",
+        "Aconteci numa fazenda, não numa cidade grande.",
+        "Paz e amor eram meu lema não oficial.",
+        "Jimi Hendrix tocou o hino americano na guitarra em mim.",
+        "Fico no estado de Nova York, mas não na cidade.",
+        "Meio milhão de pessoas apareceram, bem mais que o esperado.",
+        "Sou considerado o festival de música mais famoso da história.",
+        "O documentário sobre mim ganhou o Oscar."
+      ]
+    },
+    {
+      "id": "mm_005",
+      "type": "COISA",
+      "answer": "Disco de vinil",
+      "clues": [
+        "Já fui o jeito mais comum de ouvir música em casa.",
+        "Sou feito de um material que gira.",
+        "Preciso de uma agulha para funcionar.",
+        "Quase morri com a chegada do CD, mas voltei com tudo.",
+        "Colecionadores pagam caro por versões raras de mim.",
+        "Tenho dois lados, A e B.",
+        "Meu tamanho se mede em polegadas e rotações por minuto.",
+        "Sou vendido dentro de capas que viraram arte por si só.",
+        "Hoje sou símbolo de quem ouve música \"raiz\".",
+        "DJs me arranham de propósito para fazer música."
+      ]
+    },
+    {
+      "id": "mm_006",
+      "type": "PESSOA",
+      "answer": "Michael Jackson",
+      "clues": [
+        "Comecei a cantar em grupo, ao lado dos meus irmãos, ainda criança.",
+        "Uma luva brilhante em uma mão só virou minha marca.",
+        "Meu passo de dança mais famoso parece desafiar a física.",
+        "Fiz o videoclipe mais influente da história, com zumbis dançando.",
+        "Meu jeito de cantar inclui gritos agudos que viraram assinatura.",
+        "\"Rei do Pop\" é o título que o mundo me deu.",
+        "Meu álbum mais famoso segue entre os mais vendidos de todos os tempos.",
+        "Minha aparência mudou drasticamente ao longo da carreira.",
+        "Transformei o chapéu inclinado e a meia branca em espetáculo.",
+        "Morri em 2009, dias antes de uma turnê de retorno."
+      ]
+    },
+    {
+      "id": "mm_007",
+      "type": "PESSOA",
+      "answer": "Roberto Carlos",
+      "clues": [
+        "Me chamam de \"Rei\" no Brasil há mais de meio século.",
+        "Todo fim de ano, meu especial de TV é tradição nas famílias.",
+        "Comecei na Jovem Guarda, ao lado do meu grande parceiro Erasmo.",
+        "Carros e estradas aparecem com frequência nas minhas canções.",
+        "Azul é a cor que virou sinônimo do meu romantismo.",
+        "Canto para \"essa mulher\" há décadas e as fãs jogam flores no palco.",
+        "Tenho uma relação famosa de mania com repetição de palavras e superstições.",
+        "Já gravei em espanhol e fiz sucesso pela América Latina inteira.",
+        "Minha carreira começou antes de a Bossa Nova estourar.",
+        "Sou de Cachoeiro de Itapemirim, e isso virou até letra de música."
+      ]
+    },
+    {
+      "id": "mm_008",
+      "type": "COISA",
+      "answer": "Bateria",
+      "clues": [
+        "Sou o coração rítmico de quase toda banda.",
+        "Quem me toca usa o corpo inteiro: mãos e pés.",
+        "Sou na verdade um conjunto de peças, não uma só.",
+        "Pratos fazem parte de mim, mas ninguém come neles.",
+        "Sou o instrumento mais barulhento da sala de ensaio.",
+        "Vizinhos odeiam quando alguém me compra.",
+        "Uso baquetas como ferramenta principal.",
+        "Ringo Starr e Phil Collins ficaram famosos me tocando.",
+        "Meu pedal mais grave marca o pulso da música.",
+        "Em show, meu solo costuma ser o momento de fúria do músico."
+      ]
+    },
+    {
+      "id": "mm_009",
+      "type": "LUGAR",
+      "answer": "Rock in Rio",
+      "clues": [
+        "Nasci no Brasil em 1985 e virei um dos maiores eventos do planeta.",
+        "Recebi Queen, Guns N' Roses e Iron Maiden em edições históricas.",
+        "Meu palco principal é gigante, mas o nome dele é \"Mundo\".",
+        "Aconteço também em Lisboa: levei minha marca para fora do país.",
+        "Sou uma cidade temporária: monto e desmonto a cada edição.",
+        "Meu nome junta um gênero musical e uma cidade brasileira.",
+        "Filas quilométricas e tirolesa fazem parte da minha fama.",
+        "Freddie Mercury fez uma das apresentações mais lendárias da vida dele em mim.",
+        "Milhões de ingressos meus esgotam em poucas horas.",
+        "Fico numa área apelidada de \"Cidade do Rock\"."
+      ]
+    },
+    {
+      "id": "mm_010",
+      "type": "PESSOA",
+      "answer": "Elvis Presley",
+      "clues": [
+        "Nasci pobre no sul dos Estados Unidos e virei o artista mais icônico do meu país.",
+        "Meu topete e meus macacões brilhantes viraram fantasia de festa.",
+        "Comecei misturando country com música negra americana, e isso chocou.",
+        "Meu jeito de dançar era tão ousado que a TV só me filmava da cintura pra cima.",
+        "Servi no exército no auge da fama.",
+        "Minha mansão em Memphis virou ponto turístico visitado até hoje.",
+        "Me chamam de \"Rei\" — do rock, no meu caso.",
+        "Teorias de que estou vivo circulam desde a minha morte em 1977.",
+        "Casei com uma mulher que depois foi sogra do Michael Jackson.",
+        "Morri no banheiro da minha própria casa, aos 42 anos."
+      ]
+    },
+    {
+      "id": "mm_011",
+      "type": "PESSOA",
+      "answer": "Freddie Mercury",
+      "clues": [
+        "Nasci em Zanzibar, mas o mundo me conheceu pela Inglaterra.",
+        "Minha extensão vocal é estudada até hoje.",
+        "Um bigode marcante definiu minha fase mais icônica.",
+        "Comandei o público de Wembley como ninguém.",
+        "Minha banda tem nome de realeza.",
+        "Escrevi uma rapsódia que mistura ópera e rock.",
+        "\"Êêô!\" — eu gritava, e o estádio inteiro respondia.",
+        "Um filme sobre minha vida deu Oscar ao ator que me interpretou.",
+        "Gatos eram minha paixão fora dos palcos.",
+        "Morri em 1991, um dia depois de anunciar minha doença ao mundo."
+      ]
+    },
+    {
+      "id": "mm_012",
+      "type": "PESSOA",
+      "answer": "Madonna",
+      "clues": [
+        "Me chamam de rainha de um gênero inteiro.",
+        "Me reinvento a cada década há mais de 40 anos.",
+        "Sou americana, de Michigan, com nome de santidade.",
+        "\"Como uma virgem\" é um dos meus hinos.",
+        "Escandalizei igrejas, TVs e governos — de propósito.",
+        "Meu show em Copacabana reuniu mais de um milhão de pessoas.",
+        "Um sutiã de cones virou figurino histórico por minha causa.",
+        "Sou a artista feminina que mais vendeu discos na história.",
+        "Vogue não é só revista no meu vocabulário.",
+        "\"Material Girl\" é um apelido que aceito com orgulho."
+      ]
+    },
+    {
+      "id": "mm_013",
+      "type": "PESSOA",
+      "answer": "Anitta",
+      "clues": [
+        "Saí de Honório Gurgel, subúrbio carioca, para o mundo.",
+        "Comecei cantando em igreja antes de dominar os bailes.",
+        "Meu nome artístico veio de uma personagem de minissérie.",
+        "Fui a primeira brasileira no topo do ranking global do Spotify.",
+        "\"Envolver\" me rendeu recorde mundial e uma dancinha viral.",
+        "Canto em português, espanhol e inglês, às vezes na mesma música.",
+        "Virei empresária do próprio nome ainda bem cedo.",
+        "O Rio de Janeiro é meu cenário e minha bandeira.",
+        "Já me apresentei no Coachella e no Rock in Rio.",
+        "Sou a maior estrela pop que o funk brasileiro já produziu."
+      ]
+    },
+    {
+      "id": "mm_014",
+      "type": "PESSOA",
+      "answer": "Bob Marley",
+      "clues": [
+        "Nasci numa ilha do Caribe e a coloquei no mapa da música.",
+        "Meus cabelos eram parte da minha fé.",
+        "Espalhei uma mensagem de paz e liberdade pelo mundo.",
+        "\"Não se preocupe com nada\" resume uma das minhas canções mais famosas.",
+        "Fui alvo de um atentado e mesmo assim subi no palco dias depois.",
+        "Verde, amarelo e vermelho são cores ligadas à minha imagem.",
+        "Meu gênero musical nasceu na Jamaica.",
+        "Futebol era minha segunda paixão.",
+        "Morri aos 36 anos, de um câncer que começou no dedo do pé.",
+        "Sou o maior nome que o reggae já teve."
+      ]
+    },
+    {
+      "id": "mm_015",
+      "type": "PESSOA",
+      "answer": "Beethoven",
+      "clues": [
+        "Componho há mais de 200 anos e ainda toco em todo lugar.",
+        "Perdi justamente o sentido mais importante para o meu trabalho.",
+        "Minha Quinta começa com quatro notas que todo mundo conhece.",
+        "Sou alemão, de Bonn, mas Viena foi meu palco.",
+        "Compus minha obra máxima já completamente surdo.",
+        "A \"Ode à Alegria\" saiu da minha pena.",
+        "Meu temperamento era tão famoso quanto meu talento.",
+        "\"Für Elise\" é aquela minha peça que todo iniciante de piano tenta tocar.",
+        "Nove sinfonias carregam meu nome.",
+        "Um cachorro São Bernardo do cinema foi batizado em minha homenagem."
+      ]
+    },
+    {
+      "id": "mm_016",
+      "type": "COISA",
+      "answer": "Piano",
+      "clues": [
+        "Tenho 88 dentes: uns brancos, uns pretos.",
+        "Sou grande demais para levar no ônibus.",
+        "Martelos trabalham dentro de mim, mas não constroem nada.",
+        "Existo de cauda, de parede e até digital.",
+        "Beethoven e Chopin fizeram história em mim.",
+        "Três pedais mudam meu humor.",
+        "Sou obrigatório em qualquer conservatório.",
+        "Bares elegantes costumam ter um músico dedicado só a mim.",
+        "Elton John e Freddie Mercury me tocavam cantando.",
+        "Minhas teclas respondem à força do toque — por isso meu nome completo termina em \"forte\"."
+      ]
+    },
+    {
+      "id": "mm_017",
+      "type": "COISA",
+      "answer": "Microfone",
+      "clues": [
+        "Sem mim, o cantor não alcança a arquibancada.",
+        "Já fui de fio; hoje vivo sem ele.",
+        "Testar-me virou frase universal: \"som, teste, um, dois\".",
+        "Cantores me seguram; palestrantes me prendem na roupa.",
+        "Solto um apito ensurdecedor quando me apontam para a caixa errada.",
+        "Me derrubar no chão de propósito virou gesto de vitória no rap.",
+        "Transformo voz em eletricidade.",
+        "Em estúdio, uso uma tela redonda para segurar os \"pês\" e \"bês\".",
+        "Karaokê nenhum existe sem mim.",
+        "Sou o objeto que todo mundo já fingiu segurar usando uma escova de cabelo."
+      ]
+    },
+    {
+      "id": "mm_018",
+      "type": "COISA",
+      "answer": "Sanfona (acordeom)",
+      "clues": [
+        "Respiro para fazer som: abro e fecho como um pulmão.",
+        "Sou rainha do forró e do baião.",
+        "Tenho teclas de um lado e botões do outro.",
+        "Luiz Gonzaga me eternizou no Nordeste.",
+        "Meu fole é meu coração.",
+        "Também me chamam por outro nome, de origem mais europeia.",
+        "Em festa junina, sou presença obrigatória.",
+        "Peso nos ombros de quem me toca — literalmente.",
+        "O tango argentino usa um primo meu, o bandoneón.",
+        "Sou o instrumento símbolo do sertão brasileiro."
+      ]
+    },
+    {
+      "id": "mm_019",
+      "type": "COISA",
+      "answer": "Karaokê",
+      "clues": [
+        "Nasci no Japão e conquistei festas no mundo todo.",
+        "Transformo qualquer pessoa em cantor por uma noite.",
+        "Uma tela com letras é minha alma.",
+        "Coragem líquida costuma anteceder meu uso.",
+        "Meu nome significa algo como \"orquestra vazia\".",
+        "Bares dedicados a mim têm salinhas privativas.",
+        "A música toca, mas a voz principal fica por sua conta.",
+        "Desafinar comigo é regra, não exceção.",
+        "Sou pedida certa em festa de fim de ano de empresa.",
+        "No final, dou uma nota para o seu desempenho, sem piedade."
+      ]
+    },
+    {
+      "id": "mm_020",
+      "type": "LUGAR",
+      "answer": "Broadway",
+      "clues": [
+        "Sou uma avenida, mas meu nome virou sinônimo de um gênero inteiro.",
+        "Fico em Manhattan, coração de Nova York.",
+        "Meus letreiros luminosos são atração turística por si só.",
+        "Musicais são minha especialidade.",
+        "O Rei Leão e O Fantasma da Ópera moram em mim há décadas.",
+        "Ganhar um prêmio Tony é o sonho de quem pisa nos meus palcos.",
+        "A Times Square é minha esquina mais famosa.",
+        "Atores, cantores e dançarinos disputam vagas em mim a vida inteira.",
+        "Hamilton virou febre mundial a partir de mim.",
+        "Sou o destino final de quem sonha com teatro musical."
+      ]
+    },
+    {
+      "id": "mm_021",
+      "type": "LUGAR",
+      "answer": "Sambódromo",
+      "clues": [
+        "Fico vazio quase o ano inteiro, mas em fevereiro sou o centro do mundo.",
+        "Fui desenhado por Oscar Niemeyer.",
+        "Sou uma avenida com arquibancadas dos dois lados.",
+        "Escolas inteiras desfilam em mim — mas ninguém estuda nelas.",
+        "Meu endereço oficial é a Marquês de Sapucaí.",
+        "Baterias de centenas de ritmistas fazem meu chão tremer.",
+        "Uma apuração de notas na quarta-feira define meu campeão.",
+        "Carros alegóricos gigantes atravessam meu asfalto.",
+        "Fico no Rio, e São Paulo tem um primo meu, o Anhembi.",
+        "Sou o palco do maior espetáculo de Carnaval do planeta."
+      ]
+    },
+    {
+      "id": "mm_022",
+      "type": "PESSOA",
+      "answer": "Tim Maia",
+      "clues": [
+        "Minha voz é uma das mais potentes que o Brasil já ouviu.",
+        "Cresci na Tijuca vendendo os quitutes que minha mãe fazia.",
+        "Fui amigo de juventude de Roberto e Erasmo Carlos.",
+        "Morei nos Estados Unidos e voltei deportado.",
+        "Misturei soul e funk americano com música brasileira como ninguém.",
+        "Entrei numa seita e gravei discos \"racionais\" que viraram lenda.",
+        "Faltar aos próprios shows virou parte da minha fama.",
+        "\"Você\" e \"Gostava Tanto de Você\" embalam românticos até hoje.",
+        "Meu gênio era difícil; minha risada, inesquecível.",
+        "Me apelidaram de \"Síndico\" da música brasileira."
+      ]
+    },
+    {
+      "id": "mm_023",
+      "type": "PESSOA",
+      "answer": "Elis Regina",
+      "clues": [
+        "Me chamavam de \"Pimentinha\" pelo temperamento.",
+        "Nasci em Porto Alegre e virei uma das maiores vozes do Brasil.",
+        "\"Águas de Março\" em dueto com Tom Jobim é um dos registros mais amados da MPB.",
+        "Revelei compositores que viraram gigantes.",
+        "Meu jeito de cantar com o corpo inteiro virou marca.",
+        "Brilhei nos festivais históricos da música brasileira nos anos 60.",
+        "\"Como Nossos Pais\" na minha voz virou hino de gerações.",
+        "Parti cedo demais, aos 36 anos, em 1982.",
+        "Minha filha seguiu meu caminho na música.",
+        "Sou considerada por muitos a maior cantora da história do Brasil."
+      ]
+    },
+    {
+      "id": "mm_024",
+      "type": "PESSOA",
+      "answer": "Luiz Gonzaga",
+      "clues": [
+        "Nasci no sertão de Pernambuco, no pé da serra.",
+        "Levei o Nordeste para o rádio do Brasil inteiro.",
+        "Meu chapéu de couro imita o de Lampião.",
+        "\"Asa Branca\" é meu hino — e quase um hino nacional.",
+        "Me coroaram \"Rei do Baião\".",
+        "Meu instrumento respira: abre e fecha como um fole.",
+        "Meu filho seguiu na música e cantou \"O Que É, O Que É\".",
+        "Cantei a seca, a saudade e a volta pra casa.",
+        "Junho é o mês em que minha música toca sem parar.",
+        "Exu, minha cidade natal, virou lugar de peregrinação."
+      ]
+    },
+    {
+      "id": "mm_025",
+      "type": "PESSOA",
+      "answer": "Beyoncé",
+      "clues": [
+        "Comecei num trio feminino que dominou os anos 2000.",
+        "Me chamam de \"Queen B\".",
+        "Sou de Houston, Texas, e canto isso com orgulho.",
+        "\"Single Ladies\" criou uma coreografia de mão que o mundo copiou.",
+        "Sou casada com um dos maiores rappers do planeta.",
+        "Lancei um álbum surpresa sem nenhum aviso e mudei a indústria.",
+        "Minha apresentação no Coachella foi tão histórica que ganhou apelido próprio.",
+        "Sou a mulher com mais Grammys da história.",
+        "Minha irmã caçula também é cantora.",
+        "Virei até voz de leoa em um clássico da Disney."
+      ]
+    },
+    {
+      "id": "mm_026",
+      "type": "PESSOA",
+      "answer": "Rolling Stones",
+      "clues": [
+        "Somos uma banda em atividade há mais de 60 anos.",
+        "Uma língua de fora é nossa logomarca.",
+        "Nosso vocalista dança no palco até hoje, já passando dos 80.",
+        "\"Satisfaction\" é nosso grito eterno de inquietação.",
+        "Somos ingleses e eternos rivais amistosos dos Beatles.",
+        "Nosso guitarrista é lendário por sobreviver a tudo.",
+        "Fizemos um show gratuito histórico em Copacabana, para mais de um milhão de pessoas.",
+        "Nosso nome vem de uma pedra que não para quieta.",
+        "Nos chamam de \"a maior banda de rock do mundo\" — e não discutimos.",
+        "Mick e Keith são nossa dupla fundadora."
+      ]
+    },
+    {
+      "id": "mm_027",
+      "type": "COISA",
+      "answer": "Fone de ouvido",
+      "clues": [
+        "Crio um mundo particular em lugares lotados.",
+        "Já tive fio que embolava no bolso; hoje muitos de mim vivem numa caixinha.",
+        "Sou o motivo de tanta gente não ouvir quando é chamada.",
+        "Músicos de estúdio me usam para ouvir a si mesmos.",
+        "DJs me seguram com o ombro num gesto clássico.",
+        "Em avião, sou distribuído para ver filme.",
+        "Perder um lado meu virou tragédia moderna.",
+        "Aviso com um bip quando minha bateria está acabando.",
+        "Existo em versão que abraça a orelha e versão que entra nela.",
+        "Transformo qualquer caminhada num clipe particular."
+      ]
+    },
+    {
+      "id": "mm_028",
+      "type": "PESSOA",
+      "answer": "Shakira",
+      "clues": [
+        "Meus quadris não mentem — nem em espanhol, nem em inglês.",
+        "Sou colombiana, de Barranquilla.",
+        "Comecei no rock em espanhol antes do pop mundial.",
+        "Cantei o hino de uma Copa do Mundo que o planeta inteiro dançou.",
+        "Meu timbre de voz é inconfundível — meio \"caprino\", dizem com carinho.",
+        "A dança do ventre faz parte da minha herança libanesa.",
+        "Fui casada com um zagueiro espanhol famoso — e a separação virou música.",
+        "\"Waka Waka\" levou a África para o mundo pela minha voz.",
+        "Loira de cachos, virei uma das latinas mais famosas da história.",
+        "Uma indireta minha num hit com produtor argentino quebrou a internet."
+      ]
+    },
+    {
+      "id": "mm_029",
+      "type": "COISA",
+      "answer": "Bossa Nova",
+      "clues": [
+        "Nasci no fim dos anos 50, em apartamentos de Copacabana e Ipanema.",
+        "Sou um jeito brasileiro de sussurrar o samba.",
+        "Violão e voz baixinha são minha essência.",
+        "Uma garota passando pela praia virou meu cartão de visita mundial.",
+        "Tom e Vinícius são meus pais mais famosos.",
+        "João Gilberto criou minha batida no violão.",
+        "Conquistei os Estados Unidos nos anos 60 e virei sinônimo de charme.",
+        "Meu nome sugere algo recém-chegado, com um toque de elegância.",
+        "Frank Sinatra gravou no meu estilo.",
+        "Sou um gênero musical, não uma pessoa nem um lugar."
+      ]
+    },
+    {
+      "id": "mm_030",
+      "type": "PESSOA",
+      "answer": "Ivete Sangalo",
+      "clues": [
+        "Comando trios elétricos como ninguém.",
+        "Minha fama começou numa banda chamada Eva.",
+        "Salvador é minha casa e meu palco.",
+        "Meu sorriso é tão famoso quanto minha voz.",
+        "Gravei DVDs históricos no Madison Square Garden e no Maracanã.",
+        "\"Veveta\" é como o Brasil me chama com intimidade.",
+        "Multidões me tratam como a rainha do axé.",
+        "Já fui técnica de reality show musical na TV.",
+        "Minha energia no palco parece não ter fim, mesmo depois de horas de show.",
+        "Carnaval sem mim não é a mesma coisa."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "baralho-de-teste-1",
+  "nome": "Baralho de Teste — Edição 1",
+  "categoria": "PERSONAGEM_FILME",
+  "colecao": {
+    "id": "baralho-de-teste",
+    "nome": "Baralho de Teste",
+    "icone": "🧪"
+  },
+  "versao": 1,
+  "estado": "EM_DESENVOLVIMENTO",
+  "cards": [
+    {
+      "id": "bt_001",
+      "type": "PESSOA",
+      "answer": "Gandalf",
+      "clues": [
+        "Sou muito mais velho do que aparento.",
+        "Já morri uma vez e voltei com outra cor.",
+        "Fogos de artifício são a minha marca em festas.",
+        "Ando sempre com um cajado na mão.",
+        "Meu chapéu pontudo é cinza como as minhas vestes.",
+        "Tenho um amigo águia que me salva de apuros.",
+        "Convoquei um hobbit para uma aventura inesperada.",
+        "Enfrentei uma criatura de fogo numa ponte estreita.",
+        "Gritei que certa criatura não haveria de passar.",
+        "Sou o mago mais famoso da Terra Média."
+      ]
+    },
+    {
+      "id": "bt_002",
+      "type": "COISA",
+      "answer": "Wall-E",
+      "clues": [
+        "Passei séculos sozinho fazendo o mesmo trabalho.",
+        "Sou pequeno, enferrujado e movido a energia solar.",
+        "Colecionava tesouros no meio do lixo.",
+        "Minha melhor amiga era uma barata muito resistente.",
+        "Guardava uma fita de musical que via toda noite.",
+        "Empilho cubos de lixo o dia inteiro.",
+        "Me apaixonei por uma robô branca e voadora.",
+        "Uma plantinha dentro de uma bota muda o meu destino.",
+        "Persegui uma nave espacial agarrado do lado de fora.",
+        "Sou um robô compactador que salvou a humanidade."
+      ]
+    },
+    {
+      "id": "bt_003",
+      "type": "PESSOA",
+      "answer": "Mary Poppins",
+      "clues": [
+        "Chego sempre quando o vento muda de direção.",
+        "Minha bolsa carrega muito mais do que parece.",
+        "Desço do céu segurando um guarda-chuva.",
+        "Uma colher de açúcar ajuda o remédio a descer.",
+        "Sou praticamente perfeita em todos os sentidos.",
+        "Cuido de crianças numa Londres antiga.",
+        "Tenho uma palavra mágica quase impossível de soletrar.",
+        "Danço com um limpador de chaminés no telhado.",
+        "Transformo a arrumação do quarto numa brincadeira.",
+        "Sou a babá mais famosa do cinema."
+      ]
+    },
+    {
+      "id": "bt_004",
+      "type": "PESSOA",
+      "answer": "King Kong",
+      "clues": [
+        "Minha casa é uma ilha cheia de perigos.",
+        "Sou gigante, mas tenho um coração sensível.",
+        "Fui levado à força para a cidade grande.",
+        "Correntes não me seguram por muito tempo.",
+        "Me apaixonei por uma moça loira e assustada.",
+        "Enfrento dinossauros no braço, literalmente.",
+        "Virei atração de teatro contra a minha vontade.",
+        "Aviões me cercaram no alto de um prédio famoso.",
+        "Escalei o Empire State com uma mão só.",
+        "Sou o gorila mais famoso do cinema."
+      ]
+    },
+    {
+      "id": "bt_005",
+      "type": "PESSOA",
+      "answer": "Pinóquio",
+      "clues": [
+        "Nasci numa oficina de marceneiro.",
+        "Meu pai sempre quis um filho de verdade.",
+        "Um grilo falante tenta ser a minha consciência.",
+        "Uma fada azul me deu vida.",
+        "Fui enganado por uma raposa e um gato.",
+        "Quase virei burro numa ilha de brincadeiras.",
+        "Fui engolido por uma baleia enorme.",
+        "Sonho em ser um menino de verdade.",
+        "Sou feito de madeira dos pés à cabeça.",
+        "Meu nariz cresce toda vez que minto."
+      ]
+    },
+    {
+      "id": "bt_006",
+      "type": "PESSOA",
+      "answer": "Godzilla",
+      "clues": [
+        "Durmo no fundo do oceano há milênios.",
+        "Testes nucleares me acordaram de mau humor.",
+        "Sou do tamanho de um arranha-céu.",
+        "Meu rugido se ouve a quilômetros de distância.",
+        "Meu sopro é um jato atômico azul.",
+        "Tóquio conhece bem as minhas pegadas.",
+        "Já lutei contra um gorila gigante no cinema.",
+        "Minhas escamas brilham quando vou atacar.",
+        "Sou chamado de Rei dos Monstros.",
+        "Sou o lagarto gigante mais famoso do Japão."
+      ]
+    }
+  ]
+}
