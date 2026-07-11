@@ -7,7 +7,7 @@
     "nome": "Baralho de Teste",
     "icone": "🧪"
   },
-  "versao": 1,
+  "versao": 2,
   "estado": "EM_DESENVOLVIMENTO",
   "cards": [
     {
@@ -24,7 +24,7 @@
         "Convoquei um hobbit para uma aventura inesperada.",
         "Enfrentei uma criatura de fogo numa ponte estreita.",
         "Gritei que certa criatura não haveria de passar.",
-        "Sou o mago mais famoso da Terra Média."
+        "Sou o mago mais famoso da Terra Média. (v2)"
       ]
     },
     {
