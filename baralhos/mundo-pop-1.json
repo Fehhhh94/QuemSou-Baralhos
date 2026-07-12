@@ -1,0 +1,524 @@
+{
+  "id": "mundo-pop-1",
+  "nome": "Mundo Pop — Edição 1",
+  "categoria": "MUNDO_DA_MUSICA",
+  "colecao": {
+    "id": "mundo-pop",
+    "nome": "Mundo Pop",
+    "icone": "🌟"
+  },
+  "versao": 1,
+  "estado": "EM_DESENVOLVIMENTO",
+  "cards": [
+    {
+      "id": "mp_001",
+      "type": "PESSOA",
+      "answer": "Taylor Swift",
+      "clues": [
+        "Comecei a compor minhas próprias músicas ainda adolescente, no interior dos Estados Unidos.",
+        "Saí do country para dominar o pop — e levei meus fãs junto.",
+        "Regravei meus álbuns antigos só para ter de volta os direitos das minhas músicas.",
+        "Meus fãs são famosos por decifrar as pistas que escondo em clipes e capas.",
+        "Costumo transformar términos de namoro em hits mundiais.",
+        "Cada fase da minha carreira é uma \"era\", com cor e estética próprias.",
+        "Sou a recordista de prêmios de álbum do ano na maior premiação da música.",
+        "Minha turnê mais recente virou fenômeno econômico global e filme de cinema.",
+        "Meu namoro com um jogador de futebol americano virou pauta até no Super Bowl.",
+        "Sou a loira americana de \"Shake It Off\" e \"Anti-Hero\", a maior estrela pop da minha geração."
+      ]
+    },
+    {
+      "id": "mp_002",
+      "type": "PESSOA",
+      "answer": "Lady Gaga",
+      "clues": [
+        "Estudei piano clássico desde os quatro anos de idade.",
+        "Comecei tocando em bares de Nova York antes de virar fenômeno mundial.",
+        "Cheguei a uma premiação dentro de um ovo gigante.",
+        "Meu vestido feito de carne entrou para a história da moda pop.",
+        "Gravei álbuns de jazz com Tony Bennett entre um disco pop e outro.",
+        "Estrelei um filme sobre uma estrela que nasce e levei o Oscar pela canção.",
+        "Cantei o hino americano num Super Bowl e comandei o show do intervalo em outro.",
+        "Meus fãs se chamam \"little monsters\" — e eu sou a mãe deles.",
+        "Meu nome artístico veio de uma música do Queen.",
+        "Sou a camaleoa pop de \"Poker Face\", \"Bad Romance\" e \"Shallow\"."
+      ]
+    },
+    {
+      "id": "mp_003",
+      "type": "PESSOA",
+      "answer": "Britney Spears",
+      "clues": [
+        "Comecei num programa infantil de TV ao lado de outros futuros astros do pop.",
+        "Fui coroada princesa do pop quando ainda era adolescente.",
+        "Dancei com uma cobra de verdade nos ombros numa premiação famosa.",
+        "Em 2007, raspei a própria cabeça diante dos paparazzi.",
+        "Uma tutela judicial controlou minha vida e minha carreira por 13 anos.",
+        "Um movimento mundial com meu nome pediu minha liberdade na justiça.",
+        "No clipe da minha estreia, apareci de uniforme escolar num colégio.",
+        "Em \"Toxic\", virei uma aeromoça platinada.",
+        "Minha amizade e rivalidade com Christina Aguilera vem desde o clube do Mickey.",
+        "Sou a princesinha do pop dos anos 2000, dona de \"...Baby One More Time\"."
+      ]
+    },
+    {
+      "id": "mp_004",
+      "type": "PESSOA",
+      "answer": "Rihanna",
+      "clues": [
+        "Fui descoberta na adolescência por um produtor que passava férias na minha ilha.",
+        "Meu primeiro nome, quase ninguém usa: é Robyn.",
+        "Meu país me declarou heroína nacional em cerimônia oficial.",
+        "Virei bilionária mais pela maquiagem do que pela música.",
+        "Minha marca de beleza revolucionou o mercado com dezenas de tons de base.",
+        "Meus fãs imploram por um álbum novo desde 2016.",
+        "Cantei grávida no show do intervalo do Super Bowl — e o mundo descobriu ali.",
+        "Saí de Barbados para me tornar uma das maiores vozes do pop.",
+        "\"Umbrella\" e \"Diamonds\" são minhas.",
+        "Sou a estrela caribenha do pop, dona da Fenty Beauty."
+      ]
+    },
+    {
+      "id": "mp_005",
+      "type": "PESSOA",
+      "answer": "Justin Bieber",
+      "clues": [
+        "Aprendi sozinho a tocar bateria, violão e piano quando criança.",
+        "Fui descoberto por causa de vídeos caseiros postados na internet.",
+        "Um empresário me levou para cantar para o Usher, e assinei contrato ainda adolescente.",
+        "Meus fãs adolescentes causavam uma histeria apelidada de \"febre\".",
+        "Cresci diante das câmeras, com todos os tropeços expostos ao mundo.",
+        "Casei com uma modelo da família Baldwin.",
+        "Entrei no remix de \"Despacito\" e ele dominou o planeta.",
+        "Sou canadense e comecei cantando na rua da minha cidadezinha.",
+        "\"Sorry\" e \"Peaches\" são minhas.",
+        "Sou o ídolo teen canadense descoberto no YouTube, dono de \"Baby\"."
+      ]
+    },
+    {
+      "id": "mp_006",
+      "type": "PESSOA",
+      "answer": "Bruno Mars",
+      "clues": [
+        "Quando criança, no Havaí, eu imitava Elvis Presley nos palcos.",
+        "Comecei compondo sucessos para outros artistas antes de estourar sozinho.",
+        "Meu nome artístico junta um apelido de infância com um planeta.",
+        "Minhas músicas soam como se tivessem saído direto dos anos 70 e 80.",
+        "Formei com Anderson .Paak uma dupla premiada chamada Silk Sonic.",
+        "Comandei um show do intervalo do Super Bowl e voltei como convidado em outro.",
+        "Sou baixinho, uso chapéu e danço como James Brown.",
+        "Emprestei minha voz a \"Uptown Funk\" e parei as pistas do mundo inteiro.",
+        "\"24K Magic\" e \"Locked Out of Heaven\" são minhas.",
+        "Sou o havaiano do funk-pop que canta \"Just the Way You Are\"."
+      ]
+    },
+    {
+      "id": "mp_007",
+      "type": "PESSOA",
+      "answer": "Adele",
+      "clues": [
+        "Estudei na mesma escola de artes londrina que Amy Winehouse.",
+        "Batizo meus álbuns com a idade que tinha quando os compus.",
+        "Minha gargalhada nada elegante contrasta com minhas baladas tristes.",
+        "Um término de namoro virou um dos álbuns mais vendidos do século.",
+        "Adiei uma temporada inteira de shows em Las Vegas com um vídeo chorando.",
+        "Ganhei o Oscar por uma música de James Bond.",
+        "Varri as categorias principais da maior premiação da música — duas vezes.",
+        "\"Hello\" quebrou o recorde de visualizações em 24 horas na época.",
+        "\"Someone Like You\" e \"Rolling in the Deep\" são minhas.",
+        "Sou a britânica dos álbuns \"19\", \"21\", \"25\" e \"30\", dona de uma das maiores vozes do pop."
+      ]
+    },
+    {
+      "id": "mp_008",
+      "type": "PESSOA",
+      "answer": "Katy Perry",
+      "clues": [
+        "Filha de pastores, comecei cantando gospel com outro sobrenome.",
+        "Meu primeiro hit pop confessava um beijo em uma garota — no próprio título.",
+        "Já subi ao palco vestida de cupcake e cercada de doces gigantes.",
+        "Casei com um comediante inglês e fiquei noiva de um ator de \"Piratas do Caribe\".",
+        "Fui jurada do American Idol por vários anos.",
+        "Em 2025, fui ao espaço num voo turístico de 11 minutos.",
+        "Meu álbum \"Teenage Dream\" emplacou cinco singles número 1, igualando um recorde do rei do pop.",
+        "Num dos meus clipes mais famosos, fogos de artifício saem do meu peito.",
+        "\"Roar\" e \"Firework\" são hinos de autoestima que carimbei nas paradas.",
+        "Sou a pop star californiana de \"California Gurls\" e \"Dark Horse\"."
+      ]
+    },
+    {
+      "id": "mp_009",
+      "type": "PESSOA",
+      "answer": "Billie Eilish",
+      "clues": [
+        "Fui educada em casa, numa família de músicos e atores.",
+        "Gravei meu primeiro sucesso no quarto, com meu irmão produzindo.",
+        "Sussurro mais do que canto — e isso virou minha assinatura.",
+        "Fiquei famosa adolescente usando roupas largas de propósito.",
+        "Meu irmão Finneas é meu parceiro em praticamente tudo que lanço.",
+        "Fui a artista mais jovem a varrer as quatro categorias principais da maior premiação da música.",
+        "Ganhei dois Oscars antes dos 23 anos.",
+        "Já usei cabelo verde-neon que virou fantasia de Halloween mundo afora.",
+        "Cantei o tema de um filme do James Bond e o da Barbie.",
+        "Sou a voz sussurrada da geração Z, dona de \"Bad Guy\"."
+      ]
+    },
+    {
+      "id": "mp_010",
+      "type": "PESSOA",
+      "answer": "ABBA",
+      "clues": [
+        "Somos dois casais que viraram um quarteto histórico.",
+        "Nossos divórcios viraram músicas dançantes e tristes ao mesmo tempo.",
+        "Vencemos o Eurovision em 1974 e nunca mais saímos das pistas.",
+        "Somos o maior produto de exportação musical da Suécia.",
+        "Nosso nome é o acrônimo das iniciais dos nossos primeiros nomes.",
+        "Nossos figurinos brilhantes dos anos 70 são inconfundíveis.",
+        "Voltamos aos palcos de Londres como hologramas digitais.",
+        "Um musical e dois filmes com Meryl Streep são feitos só com as nossas canções.",
+        "\"Dancing Queen\" é nossa.",
+        "Somos o quarteto sueco de \"Mamma Mia\" e \"Waterloo\"."
+      ]
+    },
+    {
+      "id": "mp_011",
+      "type": "PESSOA",
+      "answer": "Spice Girls",
+      "clues": [
+        "Fomos montadas a partir de um anúncio de jornal procurando garotas que cantassem e dançassem.",
+        "Cada uma de nós tinha um apelido: a assustadora, a bebê, a esportiva, a elegante e a ruiva.",
+        "Somos o grupo feminino mais vendido da história da música.",
+        "Nosso primeiro single mandava o pretendente se entender primeiro com as nossas amigas.",
+        "Estrelamos nosso próprio filme nos anos 90.",
+        "Uma de nós casou com um dos maiores jogadores de futebol da Inglaterra.",
+        "Cantamos juntas de novo no encerramento da Olimpíada de Londres.",
+        "Nosso grito de guerra era o \"poder feminino\" dos anos 90.",
+        "\"Wannabe\" foi a nossa estreia arrasadora.",
+        "Somos o quinteto britânico do \"girl power\"."
+      ]
+    },
+    {
+      "id": "mp_012",
+      "type": "PESSOA",
+      "answer": "Backstreet Boys",
+      "clues": [
+        "Nascemos em Orlando, montados pelo mesmo empresário de outra boyband famosa.",
+        "Nosso nome veio de um mercado de rua da Flórida.",
+        "Somos a boyband mais vendida da história.",
+        "Estamos na estrada há mais de 30 anos — e as fãs seguem fiéis.",
+        "Num clipe clássico, viramos múmia, lobisomem e vampiro numa mansão assombrada.",
+        "Rivalizamos com o NSYNC pelo trono das boybands nos anos 90.",
+        "Nossas coreografias sincronizadas em bancos e cadeiras marcaram época.",
+        "Temos residência fixa em Las Vegas.",
+        "\"I Want It That Way\" é o nosso hino.",
+        "Somos os \"meninos da rua de trás\", a boyband eterna dos anos 90."
+      ]
+    },
+    {
+      "id": "mp_013",
+      "type": "PESSOA",
+      "answer": "BTS",
+      "clues": [
+        "Nascemos numa gravadora pequena em que quase ninguém apostava.",
+        "Cantamos quase tudo na nossa língua natal e mesmo assim dominamos as paradas americanas.",
+        "Discursamos na ONU sobre amor-próprio e juventude.",
+        "Nosso país nos trata como embaixadores culturais oficiais.",
+        "Somos sete, e nosso fandom tem nome de exército.",
+        "Fizemos pausa no grupo para o serviço militar obrigatório.",
+        "Quebramos recordes de vídeo mais visto em 24 horas e de ingressos esgotados.",
+        "\"Dynamite\", nosso primeiro single todo em inglês, foi direto ao número 1 nos EUA.",
+        "Somos o rosto mais famoso da música pop coreana.",
+        "Somos o septeto de Seul idolatrado pelo ARMY."
+      ]
+    },
+    {
+      "id": "mp_014",
+      "type": "PESSOA",
+      "answer": "Whitney Houston",
+      "clues": [
+        "Cresci cantando gospel na igreja, filha de uma cantora de estúdio famosa.",
+        "Cresci cercada por Aretha Franklin e pela minha prima Dionne Warwick.",
+        "Fui modelo de capa de revista antes de estourar na música.",
+        "Minha versão de uma música country virou o single feminino mais vendido da história.",
+        "Estrelei um filme como uma estrela protegida por um segurança apaixonado.",
+        "Minha versão do hino americano no Super Bowl virou a referência definitiva.",
+        "Nos Estados Unidos, meu apelido é simplesmente \"A Voz\".",
+        "Meu casamento conturbado com Bobby Brown virou reality show.",
+        "Morri num hotel em 2012, na véspera da maior premiação da música.",
+        "Sou a diva de \"I Will Always Love You\"."
+      ]
+    },
+    {
+      "id": "mp_015",
+      "type": "PESSOA",
+      "answer": "Mariah Carey",
+      "clues": [
+        "Meus agudos alcançam um registro que pouquíssimos humanos atingem.",
+        "Compus quase todos os meus sucessos — coisa rara entre as divas.",
+        "Tenho mais músicas em primeiro lugar na parada americana do que qualquer artista solo.",
+        "Casei com o chefão da minha própria gravadora nos anos 90.",
+        "A borboleta é o símbolo da minha carreira.",
+        "\"We Belong Together\" marcou meu grande retorno nos anos 2000.",
+        "Todo dezembro eu \"descongelo\" para dominar as paradas de novo.",
+        "Minha música natalina de 1994 rende uma fortuna até hoje.",
+        "Me chamam de rainha do Natal — gostem ou não.",
+        "Sou a diva dos agudos impossíveis de \"All I Want for Christmas Is You\"."
+      ]
+    },
+    {
+      "id": "mp_016",
+      "type": "PESSOA",
+      "answer": "Prince",
+      "clues": [
+        "Toquei praticamente todos os instrumentos dos meus discos sozinho.",
+        "Criei um som que leva o nome da minha cidade, Minneapolis.",
+        "Troquei meu nome por um símbolo impronunciável durante uma guerra com a gravadora.",
+        "Rivalizei com o rei do pop pelo trono dos anos 80.",
+        "Fiz meu show do intervalo do Super Bowl debaixo de chuva de verdade — e virou lenda.",
+        "Morri em 2016 na minha mansão-estúdio, a Paisley Park.",
+        "Era baixinho, genial e vaidoso — salto alto incluso.",
+        "O roxo é minha cor, para sempre.",
+        "\"Purple Rain\" é meu filme e meu álbum mais famoso.",
+        "Meu nome artístico é um título de realeza em inglês."
+      ]
+    },
+    {
+      "id": "mp_017",
+      "type": "PESSOA",
+      "answer": "RBD",
+      "clues": [
+        "Nascemos dentro de uma novela adolescente mexicana.",
+        "Éramos seis: três meninas e três meninos, de uniforme escolar.",
+        "A novela que nos criou se passava num colégio de elite.",
+        "Gravamos um álbum inteiro em português para os fãs brasileiros.",
+        "Lotamos o Maracanã nos anos 2000 cantando em espanhol.",
+        "Anahí, Dulce María e Maite eram as nossas vozes femininas.",
+        "Nossa turnê de reencontro em 2023 parou estádios da América Latina.",
+        "Nosso nome tem só três letras, tiradas do título da novela.",
+        "\"Sálvame\" e \"Ser o Parecer\" são nossas.",
+        "Somos o grupo mexicano da novela \"Rebelde\"."
+      ]
+    },
+    {
+      "id": "mp_018",
+      "type": "PESSOA",
+      "answer": "Rita Lee",
+      "clues": [
+        "Comecei num grupo de rock psicodélico paulistano dos anos 60.",
+        "Fui expulsa da banda que ajudei a fundar.",
+        "Amava os Beatles a ponto de gravar um disco só com versões deles.",
+        "Roberto de Carvalho foi meu marido e parceiro musical por décadas.",
+        "Virei escritora best-seller com minha autobiografia.",
+        "Defendi os bichos, as mulheres e o deboche com o mesmo bom humor.",
+        "Meu cabelo vermelho era marca registrada.",
+        "\"Ovelha negra\" e \"Lança perfume\" são minhas.",
+        "Me apelidaram de rainha do rock brasileiro, mas fiz muito pop.",
+        "Sou a roqueira paulistana que saiu dos Mutantes para virar lenda nacional."
+      ]
+    },
+    {
+      "id": "mp_019",
+      "type": "PESSOA",
+      "answer": "Sandy & Junior",
+      "clues": [
+        "Somos irmãos e começamos a cantar ainda crianças, no fim dos anos 80.",
+        "Nossa estreia na TV foi cantando \"Maria Chiquinha\" ao lado do nosso pai.",
+        "Nosso pai faz dupla sertaneja com Chitãozinho.",
+        "Tivemos nossa própria série de TV na Globo.",
+        "O Brasil inteiro nos viu crescer, do palco infantil ao pop adolescente.",
+        "Um de nós seguiu carreira solo no piano e na voz; o outro virou músico e produtor.",
+        "Nossa turnê de reencontro em 2019 esgotou estádios em minutos.",
+        "\"A Lenda\" e \"Quando Você Passa\" tocaram em todas as rádios.",
+        "Somos filhos do Xororó.",
+        "Somos a dupla de irmãos queridinha do pop nacional dos anos 90 e 2000."
+      ]
+    },
+    {
+      "id": "mp_020",
+      "type": "PESSOA",
+      "answer": "Pabllo Vittar",
+      "clues": [
+        "Nasci em São Luís do Maranhão e comecei cantando na internet.",
+        "Tenho uma irmã gêmea.",
+        "Levo os ritmos do Norte e do Nordeste para o pop mundial.",
+        "Meu nome artístico tem dois L no primeiro nome.",
+        "Fiz parceria com o Major Lazer que me apresentou ao mundo.",
+        "Sou a drag queen mais seguida do mundo nas redes sociais.",
+        "Subi ao palco com a rainha do pop no mega-show de Copacabana em 2024.",
+        "\"K.O.\" me projetou nacionalmente.",
+        "Ergo a bandeira LGBTQIA+ em todos os meus shows.",
+        "Sou a drag queen brasileira que conquistou o pop mundial."
+      ]
+    },
+    {
+      "id": "mp_021",
+      "type": "PESSOA",
+      "answer": "Ludmilla",
+      "clues": [
+        "Comecei postando músicas na internet com outro nome artístico.",
+        "Meu primeiro nome artístico era \"MC\" seguido do nome de uma diva americana.",
+        "Vim de Duque de Caxias, do funk carioca, para dominar o pop.",
+        "Ganhei um Grammy Latino com um projeto de pagode.",
+        "Casei com uma dançarina do meu próprio balé.",
+        "Fui a primeira cantora negra brasileira a se apresentar no festival mais famoso do deserto californiano.",
+        "Transito entre o funk, o pop, o trap e o pagode sem pedir licença.",
+        "\"Cheguei\" e \"Din Din Din\" são minhas.",
+        "Meu projeto de pagode se chama \"Numanice\".",
+        "Sou a estrela carioca que saiu do funk para os maiores palcos do mundo."
+      ]
+    },
+    {
+      "id": "mp_022",
+      "type": "PESSOA",
+      "answer": "Rouge",
+      "clues": [
+        "Nascemos num reality show musical da TV brasileira em 2002.",
+        "Somos cinco meninas escolhidas entre milhares de candidatas.",
+        "Somos o grupo feminino mais vendido da história do Brasil.",
+        "Nosso nome é a palavra francesa para uma cor.",
+        "Fomos a resposta brasileira às girl groups internacionais dos anos 2000.",
+        "Nossa coreografia mais famosa foi ensaiada em todas as festas de escola do país.",
+        "Voltamos aos palcos em 2017, em plena onda de nostalgia.",
+        "Luciana, Aline, Fantine, Karin e Li Martins — somos nós.",
+        "Nosso maior hit é a versão brasileira de um sucesso espanhol.",
+        "Somos o quinteto brasileiro do \"Ragatanga\"."
+      ]
+    },
+    {
+      "id": "mp_023",
+      "type": "PESSOA",
+      "answer": "Lulu Santos",
+      "clues": [
+        "Comecei numa banda de rock progressivo antes de virar hitmaker do pop.",
+        "Minhas guitarras brilhantes viraram assinatura do pop nacional.",
+        "Minhas músicas embalam novelas e comerciais há mais de 40 anos.",
+        "Sou apontado como um dos maiores hitmakers do pop-rock brasileiro dos anos 80.",
+        "Casei com meu marido em 2019, depois de assumir publicamente o relacionamento.",
+        "\"Toda forma de amor\" virou hino de tolerância na minha voz.",
+        "Sou o careca mais famoso da guitarra brasileira.",
+        "Passei anos como técnico de um reality show de vozes na Globo.",
+        "\"Como uma onda\" e \"Tempos modernos\" são minhas.",
+        "Sou o guitarrista carioca da bancada do The Voice Brasil."
+      ]
+    },
+    {
+      "id": "mp_024",
+      "type": "COISA",
+      "answer": "Videoclipe",
+      "clues": [
+        "Existo desde os anos 60, mas virei indústria nos anos 80.",
+        "Um canal de TV inteiro foi criado praticamente só para me exibir.",
+        "O primeiro de mim exibido nesse canal falava de um astro do rádio morto pelo vídeo.",
+        "Diretores famosos de Hollywood começaram a carreira me dirigindo.",
+        "Combino música, roteiro, dança e moda em poucos minutos.",
+        "O do \"Thriller\", com 14 minutos, é considerado o meu ápice.",
+        "Premiações inteiras, como o VMA, existem só para mim.",
+        "Hoje vivo mais no YouTube do que na televisão.",
+        "Sem mim, \"Single Ladies\" não teria coreografia icônica.",
+        "Sou o pequeno filme que toda música pop lança junto com o single."
+      ]
+    },
+    {
+      "id": "mp_025",
+      "type": "COISA",
+      "answer": "Playback",
+      "clues": [
+        "Sou tão velho quanto os programas de auditório.",
+        "Divido opiniões: uns me defendem como recurso técnico, outros me chamam de farsa.",
+        "Coreografias pesadas quase sempre dependem de mim.",
+        "Uma dupla dos anos 80 devolveu o maior prêmio da música por minha causa.",
+        "Uma das maiores divas do pop admitiu me usar até na posse de um presidente americano.",
+        "Festivais ao vivo me proíbem; programas gravados me adoram.",
+        "Sou o dublê invisível dos cantores na televisão.",
+        "Quando o microfone desce e a voz continua, eu apareço.",
+        "Meu nome em inglês significa algo como \"tocar de volta\".",
+        "Sou a gravação que toca enquanto o artista só mexe os lábios."
+      ]
+    },
+    {
+      "id": "mp_026",
+      "type": "COISA",
+      "answer": "Auto-Tune",
+      "clues": [
+        "Nasci de um algoritmo criado por um engenheiro da indústria do petróleo.",
+        "Fui inventado nos anos 90 para corrigir discretamente o que ninguém deveria notar.",
+        "A Cher me apresentou ao mundo em \"Believe\", escancarado de propósito.",
+        "Um rapper famoso decretou minha morte no título de uma música — e eu sobrevivi.",
+        "O T-Pain virou meu garoto-propaganda, e foi zoado por isso.",
+        "O trap me transformou de correção em estética.",
+        "Puristas me odeiam; produtores não vivem sem mim.",
+        "Quando exageram em mim, a voz humana vira robô.",
+        "Corrijo notas desafinadas em tempo real, no estúdio e no palco.",
+        "Sou o efeito que deixa qualquer voz \"afinada no computador\"."
+      ]
+    },
+    {
+      "id": "mp_027",
+      "type": "COISA",
+      "answer": "Grammy",
+      "clues": [
+        "Nasci em 1959, criado pela indústria fonográfica americana.",
+        "Meu nome vem de um aparelho antigo de ouvir música.",
+        "Tenho dezenas de categorias, do pop à música clássica.",
+        "Uma diva do pop americano é quem mais me colecionou na história.",
+        "Minhas quatro categorias principais são Álbum, Gravação, Canção do Ano e Artista Revelação.",
+        "Ser apenas indicado a mim já vira selo de marketing nas capas de discos.",
+        "Minha cerimônia para a música mundial todo início de ano.",
+        "Me chamam de \"Oscar da música\".",
+        "Minha estatueta é um gramofone dourado.",
+        "Sou o prêmio máximo da indústria da música."
+      ]
+    },
+    {
+      "id": "mp_028",
+      "type": "COISA",
+      "answer": "K-pop",
+      "clues": [
+        "Nasci nos anos 90 com um grupo chamado Seo Taiji and Boys.",
+        "Minhas fábricas de talentos treinam adolescentes por anos antes da estreia.",
+        "Meus fãs organizam mutirões de streaming e votação como verdadeiros exércitos.",
+        "\"Gangnam Style\" foi minha primeira invasão global.",
+        "Meus grupos têm \"comebacks\", \"eras\" e photocards colecionáveis.",
+        "Meus grupos mais famosos têm sete meninos e quatro meninas.",
+        "Misturo pop, rap e coreografias milimetradas em grupos numerosos.",
+        "Minhas letras misturam o idioma local com refrões em inglês.",
+        "Transformei a Coreia do Sul numa potência cultural.",
+        "Sou a onda coreana que domina o pop mundial."
+      ]
+    },
+    {
+      "id": "mp_029",
+      "type": "LUGAR",
+      "answer": "Coachella",
+      "clues": [
+        "Nasci de um show do Pearl Jam que boicotava a venda tradicional de ingressos.",
+        "Aconteço num vale desértico da Califórnia desde 1999.",
+        "Levo o nome do vale onde a festa acontece.",
+        "Um holograma do Tupac chocou o mundo no meu palco.",
+        "O documentário \"Homecoming\" registrou o show histórico de uma diva nos meus palcos.",
+        "Cantoras brasileiras recentemente fincaram bandeira nos meus line-ups.",
+        "Sou sinônimo de looks de festival, celebridades e calor de 40 graus.",
+        "Uma roda-gigante aparece em todas as fotos tiradas em mim.",
+        "Sou o festival mais instagramável do planeta.",
+        "Sou o festival do deserto californiano que abre a temporada mundial de festivais."
+      ]
+    },
+    {
+      "id": "mp_030",
+      "type": "LUGAR",
+      "answer": "Praia de Copacabana",
+      "clues": [
+        "Tenho quatro quilômetros de palco natural à beira-mar.",
+        "Rod Stewart reuniu em mim o maior público da história dos shows: 3,5 milhões de pessoas.",
+        "Uma lendária banda britânica de rock tocou de graça para mais de um milhão na minha areia.",
+        "Em 2024, a rainha do pop encerrou uma turnê histórica em mim, de graça.",
+        "Meu hotel mais famoso é um palácio dos anos 1920.",
+        "Meu réveillon é uma das maiores festas do planeta.",
+        "Meu calçadão de pedras portuguesas desenha ondas em preto e branco.",
+        "Divido a orla carioca com Ipanema e o Leme.",
+        "Fico na zona sul do Rio de Janeiro.",
+        "Sou a praia mais famosa do Brasil, palco dos maiores shows do mundo."
+      ]
+    }
+  ]
+}

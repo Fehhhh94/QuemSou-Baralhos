@@ -19,8 +19,11 @@ reversível — o JSON do baralho nunca é deletado).
 
 ## Fila de produção (ordem = prioridade; Felipe decide a pauta, Claude executa)
 
-1. Mundo Pop — Edição 1 · 🌟 Mundo Pop · MUNDO_DA_MUSICA · IDEIA
-   Recorte: ícones da música pop (internacional + Brasil). Coleção nova.
+1. Mundo Pop — Edição 1 · 🌟 Mundo Pop · MUNDO_DA_MUSICA · EM REVISÃO
+   (2026-07-12) Recorte: ícones da música pop (internacional + Brasil).
+   Coleção nova. Gerado como `baralhos/mundo-pop-1.json` (30 cards,
+   EM_DESENVOLVIMENTO v1, já no índice); régua aprovada; revisão humana
+   das dicas pendente.
 2. Mundo Pop — Edição 2 · 🌟 Mundo Pop · MUNDO_POP · BLOQUEADO
    Recorte: séries, memes, celebridades. Depende de categoria nova
    MUNDO_POP no app (tarefa do repositório Fehhhh94/QuemSou).

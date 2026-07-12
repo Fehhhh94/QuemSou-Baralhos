@@ -47,6 +47,22 @@
       "url": "https://raw.githubusercontent.com/Fehhhh94/QuemSou-Baralhos/main/baralhos/baralho-de-teste-1.json",
       "descricao": "Baralho pequeno para validar download e atualização do catálogo — não é conteúdo de jogo.",
       "tamanhoEmBytes": 4245
+    },
+    {
+      "id": "mundo-pop-1",
+      "nome": "Mundo Pop — Edição 1",
+      "categoria": "MUNDO_DA_MUSICA",
+      "colecao": {
+        "id": "mundo-pop",
+        "nome": "Mundo Pop",
+        "icone": "🌟"
+      },
+      "versao": 1,
+      "estado": "EM_DESENVOLVIMENTO",
+      "quantidadeDeCards": 30,
+      "url": "https://raw.githubusercontent.com/Fehhhh94/QuemSou-Baralhos/main/baralhos/mundo-pop-1.json",
+      "descricao": "Divas, boybands e hits que dominaram as paradas — o pop de ontem e de hoje, do mundo e do Brasil.",
+      "tamanhoEmBytes": 26088
     }
   ]
 }
