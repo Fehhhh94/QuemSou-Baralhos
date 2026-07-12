@@ -41,7 +41,7 @@
         "nome": "Baralho de Teste",
         "icone": "🧪"
       },
-      "versao": 2,
+      "versao": 3,
       "estado": "EM_DESENVOLVIMENTO",
       "quantidadeDeCards": 6,
       "url": "https://raw.githubusercontent.com/Fehhhh94/QuemSou-Baralhos/main/baralhos/baralho-de-teste-1.json",
