@@ -58,6 +58,20 @@
   `baralhos/` (`./gradlew validarCatalogo -Ppasta=C:\Dev\QuemSou-Baralhos`,
   no repo do app).
 
+### Notas operacionais (validação de 2026-07-12)
+
+- **Cache do GitHub raw**: o raw cacheia por até ~5 min. Validar no app só
+  depois que a URL do raw refletir o bump publicado — um "não achou
+  atualização" nesse intervalo **não é bug**, é o cache expirando.
+- **Checar publicação antes de validar no app**: `git log
+  origin/main..HEAD` vazio (o commit foi de fato pushado) **e** o raw já
+  refletindo o conteúdo novo. Commit local sem push não publica nada — é
+  invisível ao app.
+- **Portão rodado pelo humano fora da sessão**: exige confirmação
+  explícita de volta na sessão (Felipe reporta o resultado) — ou rodar o
+  comando com `!` para a saída cair direto na conversa. Sem uma das duas,
+  o commit combinado do Portão 2 nunca acontece.
+
 ## Análise de feedback
 
 - Além de corrigir cards mal avaliados, procurar **padrões** no conjunto e
