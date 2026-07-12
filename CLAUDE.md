@@ -1,6 +1,6 @@
 # QuemSou-Baralhos — Guia da fábrica para o Claude
 
-> **v1.1 (2026-07-12).** Este repositório é a **fábrica de conteúdo** do
+> **v1.2 (2026-07-12).** Este repositório é a **fábrica de conteúdo** do
 > QuemSou: hospeda o catálogo estático de baralhos (índice + um JSON por
 > baralho) servido via GitHub raw. Este arquivo descreve apenas o estado
 > atual; histórico vive no repositório do app (`Fehhhh94/QuemSou`,
@@ -117,6 +117,10 @@ comentário opcional, rodada, resultado e dica do acerto). Ritual:
    `FINALIZADO`, registrar na seção "Insumos para próximas edições" do
    `BARALHOS.md`.
 5. Nenhuma revisão entra sem passar pelo ritual de publicação completo.
+6. **Todo export ingerido é arquivado**, nunca descartado: salvar o JSON
+   em `feedback/AAAA-MM-DD-descricao.json` (criar a pasta no primeiro
+   uso) no mesmo commit da revisão. O acervo alimenta análise histórica
+   futura (padrões entre partidas, evolução de cards entre versões).
 
 ## Geração de conteúdo novo
 
