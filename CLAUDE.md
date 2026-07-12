@@ -1,6 +1,6 @@
 # QuemSou-Baralhos — Guia da fábrica para o Claude
 
-> **v1 (2026-07-12).** Este repositório é a **fábrica de conteúdo** do
+> **v1.1 (2026-07-12).** Este repositório é a **fábrica de conteúdo** do
 > QuemSou: hospeda o catálogo estático de baralhos (índice + um JSON por
 > baralho) servido via GitHub raw. Este arquivo descreve apenas o estado
 > atual; histórico vive no repositório do app (`Fehhhh94/QuemSou`,
@@ -12,6 +12,9 @@
 - **Nunca reescrever histórico sem confirmação explícita do Felipe.**
   Nada de `commit --amend`, `rebase` ou `reset` por conta própria — na
   dúvida, commit novo. Reescrita só quando pedida ou combinada no prompt.
+- **Nenhuma resposta se repete entre baralhos, nunca.** Antes de gerar
+  cards, varrer as respostas de TODOS os baralhos do repositório
+  (publicados e em produção). Id de card removido nunca é reutilizado.
 - **Início de todo prompt**: rodar `git remote -v` na raiz. Só seguir se o
   remoto for `Fehhhh94/QuemSou-Baralhos`. Se for outro repo, PARAR.
 - **Ids são imutáveis para sempre**: id de baralho e id de card são chave
@@ -70,6 +73,36 @@ guia manda. O mínimo que todo card respeita:
    após publicar — esperar o raw refletir o bump antes de qualquer
    veredito, senão o teste produz falso negativo.
 
+## Operações (comandos empacotados)
+
+O Felipe pede em uma linha; o Claude Code executa de ponta a ponta e
+entrega o estado final + a fila de push. Toda operação começa pelo ritual
+de abertura (git remote -v) e termina atualizando o BARALHOS.md quando o
+estado de algum baralho mudar. A régua roda cross-repo pelo próprio
+Claude Code (a partir do diretório local do repositório do app, apontando
+-Ppasta= para a raiz deste repositório) — nunca é passo manual do Felipe.
+
+- **"cria o próximo baralho da fila"**: ler BARALHOS.md (item 1 da fila,
+  pular BLOQUEADO) e docs/CARDS_GUIDE.md do repositório do app; varredura
+  de unicidade de respostas; gerar o JSON (id novo imutável, categoria e
+  coleção da pauta, 30 cards de 10 dicas em ordem decrescente de
+  dificuldade); registrar no indice.json como EM_DESENVOLVIMENTO v1;
+  rodar a régua e corrigir até zero violações; BARALHOS.md → EM REVISÃO;
+  commit atômico (baralho + índice). Entregar: resumo + aviso de que a
+  revisão humana das dicas está pendente.
+- **"revisa o baralho X com este feedback: [JSON]"**: ritual de ingestão
+  (seção abaixo); propor mudanças e AGUARDAR aprovação do Felipe; aplicar
+  só o aprovado; bump de versão no baralho E no índice; régua; commit
+  atômico. Só para baralhos EM_DESENVOLVIMENTO.
+- **"oculta o baralho X"** / **"reexibe o baralho X"**: editar somente o
+  indice.json (remover/recolocar a entrada); nunca deletar o JSON do
+  baralho; BARALHOS.md → OCULTO (ou de volta ao estado anterior); commit.
+- **"finaliza o baralho X"**: irreversível — confirmar explicitamente com
+  o Felipe antes. Critério esperado: um ciclo completo de feedback sem
+  votos FRACO novos (exceções são decisão do Felipe). Mudar o ciclo de
+  vida para FINALIZADO no baralho e no índice; bump; régua; commit;
+  BARALHOS.md → FINALIZADO.
+
 ## Ingestão de feedback do app
 
 O app exporta JSON `quemsou-feedback` versão 1 (votos 👍/👎 por card, com
@@ -81,7 +114,8 @@ comentário opcional, rodada, resultado e dica do acerto). Ritual:
 3. Priorizar cards com voto FRACO; propor revisões concretas
    (reescrita de dica, reordenação, substituição do card).
 4. Propostas só se aplicam a baralhos `EM_DESENVOLVIMENTO`. Para
-   `FINALIZADO`, registrar como insumo de próxima edição.
+   `FINALIZADO`, registrar na seção "Insumos para próximas edições" do
+   `BARALHOS.md`.
 5. Nenhuma revisão entra sem passar pelo ritual de publicação completo.
 
 ## Geração de conteúdo novo
