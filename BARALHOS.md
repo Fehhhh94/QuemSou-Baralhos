@@ -24,7 +24,24 @@ reversível — o JSON do baralho nunca é deletado).
    Coleção nova. Gerado como `baralhos/mundo-pop-1.json` (30 cards,
    EM_DESENVOLVIMENTO v1, já no índice); régua aprovada; revisão humana
    das dicas pendente.
-2. Mundo Pop — Edição 2 · 🌟 Mundo Pop · MUNDO_POP · BLOQUEADO
+2. Mundo dos Bruxos — Edição 1 · 🎬 Cinema Clássico · PERSONAGEM_FILME ·
+   EM PRODUÇÃO (2026-07-26) Recorte: universo bruxo — 20 personagens, 5
+   criaturas, 5 objetos. Gerado como `baralhos/mundo-dos-bruxos-1.json`
+   (30 cards, EM_DESENVOLVIMENTO v1, já no índice); régua aprovada
+   (`validarCatalogo` exit 0); revisão humana das dicas pendente.
+   Restrições editoriais próprias deste baralho, decididas pelo Felipe:
+   nenhuma dica, nem o nome, nem a descrição citam a marca registrada ou
+   o título da obra, e não há citação literal de fala dos livros ou
+   filmes — as dicas são descrições originais.
+   **Exceção deliberada à regra de unicidade de respostas** (decidida
+   pelo Felipe em 2026-07-26, depois de a colisão ter sido reportada):
+   duas respostas deste baralho já existem em `cinema-classico-1`
+   (cards `pf_001` e `pf_012`), que é FINALIZADO e imutável. As dicas
+   aqui são inteiramente novas; o baralho finalizado não foi tocado.
+   Consequência conhecida: as duas coleções são a mesma, então uma
+   partida que combine os dois baralhos pode repetir essas respostas.
+   **Não "corrigir" isso em sessão futura sem falar com o Felipe.**
+3. Mundo Pop — Edição 2 · 🌟 Mundo Pop · MUNDO_POP · BLOQUEADO
    Recorte: séries, memes, celebridades. Depende de categoria nova
    MUNDO_POP no app (tarefa do repositório Fehhhh94/QuemSou).
 
