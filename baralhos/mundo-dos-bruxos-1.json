@@ -7,7 +7,7 @@
     "nome": "Cinema Clássico",
     "icone": "🎬"
   },
-  "versao": 1,
+  "versao": 2,
   "estado": "EM_DESENVOLVIMENTO",
   "cards": [
     {
@@ -518,6 +518,686 @@
         "Consigo ler a mente de quem me veste, sem precisar perguntar nada.",
         "Sou velho, remendado e encardido, e tenho um rasgo que funciona como boca.",
         "Sou o objeto falante que decide em qual das quatro casas cada aluno vai estudar."
+      ]
+    },
+    {
+      "id": "mb_031",
+      "type": "PESSOA",
+      "answer": "Cedrico Diggory",
+      "clues": [
+        "Fui escolhido por um objeto mágico para competir mesmo sem ter colocado meu nome dentro dele por conta própria.",
+        "Minha casa valoriza lealdade e trabalho duro mais do que qualquer outra coisa.",
+        "Venci uma partida importante contra um adversário mais novo, mas me senti mal porque ele quase caiu de uma vassoura enfeitiçada.",
+        "Descobri uma pista debaixo d'água segurando a respiração com a ajuda de um vegetal enfiado no ouvido.",
+        "Toquei um objeto antigo ao mesmo tempo que outro concorrente, sem imaginar que aquilo nos levaria direto para o perigo.",
+        "Fui companheiro de baile de uma garota de olhos amendoados, na noite em que todo mundo se arrumou para uma festa formal.",
+        "Morri no mesmo instante em que outra pessoa tocou naquele mesmo objeto antigo comigo, num cemitério.",
+        "Meu pai carregou meu corpo nos braços e nunca mais foi o mesmo depois daquela noite.",
+        "Fui o primeiro nome a sair da urna mágica que deveria escolher só um representante por escola.",
+        "Sou o aluno leal e admirado de uma das quatro casas, campeão do torneio entre escolas que morreu num cemitério na noite do meu último desafio."
+      ]
+    },
+    {
+      "id": "mb_032",
+      "type": "PESSOA",
+      "answer": "Vítor Krum",
+      "clues": [
+        "Sou estrangeiro e cheguei à escola a bordo de um navio que emergiu de dentro de um lago.",
+        "Já era famoso na minha área antes mesmo de pisar naquele castelo, e os alunos mais novos pediam autógrafo.",
+        "Uso um casaco felpudo por cima do uniforme da minha escola, bem diferente dos uniformes locais.",
+        "Executei em campo uma manobra arriscada de mergulho que engana o adversário fazendo-o pensar que a bolinha dourada está por perto.",
+        "Fui escolhido pelo objeto mágico para representar minha escola visitante no torneio.",
+        "Levei para o baile a aluna mais inteligente do time rival, e isso irritou um bom número de garotos.",
+        "Tenho dificuldade para pronunciar certos nomes em outro idioma e errava sempre o nome da minha companheira de baile.",
+        "Sou apanhador profissional da minha seleção nacional e ajudei meu time a chegar à final de um grande campeonato internacional.",
+        "Enfrentei uma dragoa decidida a proteger seu ovo dourado o mais rápido possível, mesmo me machucando no processo.",
+        "Sou o apanhador estrangeiro de fama internacional que competiu no torneio entre escolas e se apaixonou pela aluna mais estudiosa do castelo escocês."
+      ]
+    },
+    {
+      "id": "mb_033",
+      "type": "PESSOA",
+      "answer": "Fleur Delacour",
+      "clues": [
+        "Venho de uma escola estrangeira de magia, do outro lado do canal.",
+        "Tenho sangue de uma criatura encantadora que deixa homens comuns bobos quando fico nervosa ou brava.",
+        "Cheguei à escola escocesa a bordo de uma carruagem puxada por cavalos alados enormes.",
+        "Fui escolhida pelo objeto mágico para representar minha escola estrangeira no torneio entre castelos.",
+        "Durante uma tarefa debaixo d'água, minha irmã caçula foi a refém escolhida para me testar.",
+        "Não consegui terminar uma das provas por causa de criaturas do lago, e fiquei desesperada por minha irmã.",
+        "Casei com um dos irmãos ruivos mais velhos de uma família grande de bruxos ingleses.",
+        "Ajudei a proteger a nova casa da minha família numa noite de ataque, depois de me mudar para a Inglaterra.",
+        "Fui subestimada por muita gente que achava que eu só sabia usar charme para vencer provas.",
+        "Sou a campeã loira e elegante da escola francesa de magia, parte-veela, que se casou com o irmão mais velho da família ruiva."
+      ]
+    },
+    {
+      "id": "mb_034",
+      "type": "PESSOA",
+      "answer": "Gilderoy Lockhart",
+      "clues": [
+        "Escrevi uma coleção de livros contando minhas próprias aventuras contra criaturas terríveis, quase todas inventadas.",
+        "Fui contratado como professor mesmo sem nenhum talento de verdade para a matéria que lecionava.",
+        "Apago a memória de bruxos corajosos depois de ouvir as histórias deles, e assino as proezas com o meu próprio nome.",
+        "Adoro fotografias minhas penduradas pela sala de aula, e troco de roupa a cada dia, sempre combinando tudo.",
+        "Formei um clube de duelos só para me exibir, e apanhei feio do meu próprio aluno numa demonstração.",
+        "Tentei apagar a memória de dois garotos com uma varinha quebrada emprestada, e o feitiço voltou contra mim.",
+        "Perdi todas as minhas lembranças no fundo de uma caverna secreta, no mesmo ano em que uma criatura de pedra aterrorizava o castelo.",
+        "Sou dono de um sorriso branquinho perfeito e adoro autógrafos, principalmente os meus próprios.",
+        "Vivo internado hoje, sem lembrar quem realmente sou, repetindo meu próprio nome como se fosse uma novidade.",
+        "Sou o professor de defesa vaidoso e fraudulento, autor de livros sobre façanhas que nunca vivi, hoje sem memória nenhuma."
+      ]
+    },
+    {
+      "id": "mb_035",
+      "type": "PESSOA",
+      "answer": "Horácio Slughorn",
+      "clues": [
+        "Adoro colecionar alunos promissores e famosos, e formo um pequeno grupo só com os mais talentosos ou bem relacionados.",
+        "Vivi escondido, disfarçando minha própria casa de poltrona, com medo de ser recrutado para algo perigoso.",
+        "Guardei por décadas uma lembrança falsa sobre uma conversa importante, com medo do que a lembrança verdadeira revelaria.",
+        "Adoro abacaxi cristalizado e uma boa taça de hidromel das melhores safras.",
+        "Fui convencido a voltar ao meu antigo emprego depois de anos aposentado, puxado por promessas de sucesso para um ex-aluno famoso.",
+        "Ensinei um aluno de família comum décadas atrás, sem saber no que aquele garoto brilhante se transformaria.",
+        "Minha lembrança verdadeira só veio à tona depois de muita insistência e um pouco de sorte líquida.",
+        "Tenho bigode grosso e barriga proeminente, e gosto de me vestir bem para impressionar quem considero importante.",
+        "Fui persuadido a entregar minha memória real depois de beber, sem perceber, uma poção da sorte.",
+        "Sou o professor de poções vaidoso e sociável que guardou por anos a lembrança que revelava o segredo mais perigoso do bruxo das trevas."
+      ]
+    },
+    {
+      "id": "mb_036",
+      "type": "PESSOA",
+      "answer": "Argo Filch",
+      "clues": [
+        "Trabalho no castelo há décadas, mas nunca consegui fazer uma única mágica na vida.",
+        "Guardo um arquivo enorme com o histórico de castigos de cada aluno que já pisou aqui.",
+        "Ando pelos corredores à noite atrás de qualquer sinal de bagunça, sempre com uma lanterna na mão.",
+        "Tenho uma gata cinzenta de olhos amarelados que parece enxergar tudo o que eu não vejo.",
+        "Adoraria trazer de volta castigos físicos antigos, e reclamo toda vez que um diretor proíbe isso.",
+        "Fiquei apavorado achando que minha gata tinha sido petrificada por um monstro escondido no castelo.",
+        "Um espírito brincalhão do castelo vive aprontando bagunças bem na minha frente, e eu nunca consigo pegá-lo no flagra.",
+        "Tomo conta da limpeza e da manutenção do castelo, sempre resmungando sobre lama nos corredores.",
+        "Sou tratado com desprezo por muitos alunos, apesar de viver dentro do mesmo castelo mágico que eles.",
+        "Sou o zelador rabugento e sem poderes mágicos do castelo, que trata a própria gata melhor do que qualquer aluno."
+      ]
+    },
+    {
+      "id": "mb_037",
+      "type": "PESSOA",
+      "answer": "Percy Weasley",
+      "clues": [
+        "Sou o terceiro de muitos irmãos, e sempre fui o mais empenhado em seguir as regras à risca.",
+        "Trabalho no governo mágico e sonho em subir de cargo em cargo até o topo.",
+        "Recusei acreditar no perigo que se aproximava, e discuti feio com meu próprio pai por causa disso.",
+        "Fiquei afastado da minha família por um bom tempo, orgulhoso demais para admitir que errei.",
+        "Contei uma piada bem na hora errada, no meio de uma batalha, e todo mundo riu por puro nervoso.",
+        "Uso óculos, sou workaholic e guardo minha coruja de estimação como se fosse um troféu.",
+        "Fui o primeiro da família a virar monitor-chefe, e nunca deixei ninguém esquecer disso.",
+        "Voltei correndo para o castelo bem na hora que a batalha final começava, pedindo desculpas ao meu pai.",
+        "Perdi um irmão gêmeo da família bem ao meu lado, rindo, segundos antes de uma explosão.",
+        "Sou o irmão ambicioso e workaholic da família ruiva, que rompeu e depois voltou para lutar ao lado deles na batalha final."
+      ]
+    },
+    {
+      "id": "mb_038",
+      "type": "PESSOA",
+      "answer": "Molly Weasley",
+      "clues": [
+        "Tenho um relógio na parede de casa com um ponteiro para cada filho, mostrando onde cada um está e se corre perigo.",
+        "Tricoto um suéter novo pra cada pessoa da família todo fim de ano, sempre com a inicial do nome bordada.",
+        "Sou mãe de sete filhos e trato qualquer amigo deles que aparece em casa como se fosse meu também.",
+        "Enfrentei uma prisioneira fugitiva cruel num duelo mortal para proteger minha própria filha.",
+        "Vivo preocupada demais, e minha família inteira sabe que é melhor não me contrariar quando estou brava.",
+        "Ganhei uma bolsinha perolada de presente de uma nora, sem saber que ela guardava coisas bem maiores por dentro.",
+        "Defendi minha casa cheia de gente contra ataques o tempo todo, sempre com a varinha à mão na cozinha.",
+        "Perdi um dos meus filhos gêmeos numa explosão durante a batalha final do castelo.",
+        "Sou conhecida por ser rígida com bagunça, mas ainda mais feroz quando alguém ameaça minha família.",
+        "Sou a mãe ruiva e protetora de uma família grande e barulhenta, que derrotou em duelo a comensal mais cruel do bruxo das trevas."
+      ]
+    },
+    {
+      "id": "mb_039",
+      "type": "PESSOA",
+      "answer": "Arthur Weasley",
+      "clues": [
+        "Trabalho numa repartição pequena do governo mágico dedicada a fiscalizar objetos comuns enfeitiçados por engano.",
+        "Sou fascinado por engenhocas do mundo comum, principalmente tomadas elétricas e qualquer coisa que precise de pilha.",
+        "Escondo no meu galpão uma coleção secreta de objetos comuns que minha esposa não aprova.",
+        "Enfeiticei um carro velho para voar e flutuar, e meus filhos o levaram escondido numa noite sem permissão.",
+        "Fui mordido por uma cobra gigante enquanto vigiava um corredor secreto do governo, tarde da noite.",
+        "Sou pai de sete filhos e amo demais qualquer coisa relacionada ao mundo das pessoas comuns.",
+        "Levei um garoto de óculos e cicatriz para assistir a um jogo de esportes internacional, escondido debaixo de uma barraca apertada.",
+        "Discuti feio com meu próprio filho mais velho quando ele escolheu ficar do lado do governo, negando o perigo que se aproximava.",
+        "Fui salvo bem a tempo depois de ser encontrado sangrando por um filho que teve uma visão do ataque.",
+        "Sou o pai gentil e curioso da família ruiva, funcionário do governo bruxo apaixonado por engenhocas do mundo comum."
+      ]
+    },
+    {
+      "id": "mb_040",
+      "type": "PESSOA",
+      "answer": "Ninfadora Tonks",
+      "clues": [
+        "Consigo mudar meu rosto e meu corpo à vontade, sem precisar de nenhuma poção ou feitiço.",
+        "Detesto meu primeiro nome verdadeiro e prefiro que me chamem só pelo sobrenome.",
+        "Sou trapalhona: já derrubei mais de um móvel importante só de passar perto.",
+        "Meu cabelo muda de cor sozinho dependendo do meu humor, geralmente para um rosa bem chamativo.",
+        "Sou prima de uma família de sangue-puro, mas fui rejeitada por eles por escolher o lado errado, na opinião deles.",
+        "Trabalho como investigadora do governo mágico, treinada para capturar bruxos das trevas.",
+        "Me apaixonei por um professor bem mais velho, marcado por uma condição que ele tentava esconder de todo mundo.",
+        "Tive um filho que nasceu pouco antes da batalha final, e mal tive tempo de vê-lo crescer.",
+        "Morri lutando ao lado do meu marido na mesma noite, na batalha que decidiu a guerra.",
+        "Sou a bruxa metamorfa e desastrada, prima de uma família de sangue-puro, que se casou com o professor lobisomem e morreu ao lado dele na batalha final."
+      ]
+    },
+    {
+      "id": "mb_041",
+      "type": "PESSOA",
+      "answer": "Kingsley Shacklebolt",
+      "clues": [
+        "Trabalho como investigador do governo mágico, treinado pra capturar bruxos perigosos.",
+        "Me disfarcei de segurança comum para proteger um líder do mundo sem magia, sem ele nunca desconfiar de nada.",
+        "Tenho a voz grave e calma, e raramente perco a compostura mesmo sob pressão.",
+        "Uso um brinco numa orelha só, e sou careca.",
+        "Fiz parte de um grupo secreto de resistência formado contra o retorno do bruxo das trevas.",
+        "Ajudei a escoltar um garoto famoso em fuga, voando por cima da cidade numa noite perigosa.",
+        "Assumi o comando temporário do governo mágico depois que ele foi tomado às escondidas pelo lado errado.",
+        "Sou conhecido por manter a calma justamente nos momentos de mais caos.",
+        "Depois da guerra, virei a autoridade máxima do governo dos bruxos.",
+        "Sou o auror calmo e confiável que virou o novo chefe do governo mágico depois da queda do bruxo das trevas."
+      ]
+    },
+    {
+      "id": "mb_042",
+      "type": "PESSOA",
+      "answer": "Cho Chang",
+      "clues": [
+        "Sou apanhadora do time da minha casa, conhecida por valorizar inteligência e criatividade acima de tudo.",
+        "Namorei um rapaz leal e admirado que morreu num torneio entre escolas.",
+        "Chorei bastante no meu primeiro encontro romântico depois daquela perda, numa cafeteria enfeitada para o dia dos namorados.",
+        "Fiz parte de um grupo secreto de alunos que se reunia escondido para aprender defesa de verdade.",
+        "Defendi uma amiga minha mesmo depois que ela acabou entregando o nosso grupo secreto sob pressão.",
+        "Tenho cabelo escuro e liso, e sou considerada uma das garotas mais bonitas da minha turma.",
+        "Fui convidada para um baile de inverno por dois garotos famosos ao mesmo tempo, na mesma temporada.",
+        "Escolhi ficar com o time perdedor de um jogo importante só para não trair meus próprios sentimentos.",
+        "Minha melhor amiga carrega até hoje uma cicatriz em forma de palavra no rosto, por ter delatado nosso grupo secreto.",
+        "Sou a apanhadora sensível da casa dos corvos, que namorou o campeão do torneio entre escolas e depois brevemente o garoto de cicatriz."
+      ]
+    },
+    {
+      "id": "mb_043",
+      "type": "PESSOA",
+      "answer": "Rita Skeeter",
+      "clues": [
+        "Escrevo para o jornal mais lido do mundo bruxo, sempre em busca do escândalo mais suculento possível.",
+        "Uso uma pena mágica que exagera e inventa cada frase que meus entrevistados dizem.",
+        "Consigo me transformar num inseto pequeno para bisbilhotar conversas privadas sem ninguém perceber.",
+        "Publiquei uma biografia cheia de fofocas sobre um diretor de escola respeitado, logo depois da morte dele.",
+        "Uma aluna esperta descobriu meu segredo animal e me manteve presa dentro de um vidro por semanas.",
+        "Adoro unhas compridas pintadas de vermelho vivo e óculos decorados com pedrinhas brilhantes.",
+        "Inventei histórias tão absurdas sobre um garoto famoso que boa parte da escola parou de acreditar nele.",
+        "Fui obrigada a parar de escrever mentiras por um ano inteiro, sob ameaça de ser exposta como bruxa não registrada.",
+        "Sou detestada por quase todo mundo que já apareceu numa das minhas matérias.",
+        "Sou a jornalista sensacionalista e animaga não registrada, capaz de virar besouro para espionar qualquer fofoca do mundo bruxo."
+      ]
+    },
+    {
+      "id": "mb_044",
+      "type": "PESSOA",
+      "answer": "Cornélio Fudge",
+      "clues": [
+        "Fui o chefe máximo do governo mágico por muitos anos seguidos.",
+        "Me recusei a acreditar que o bruxo das trevas mais temido tinha voltado, mesmo com provas na minha frente.",
+        "Uso chapéu-coco verde-lima por baixo da capa listrada, tentando parecer elegante.",
+        "Mandei um dementador beijar um preso sem nem checar direito se ele era culpado.",
+        "Perdi o cargo depois que ficou provado que o governo tinha sido infiltrado bem debaixo do meu nariz.",
+        "Costumava visitar o diretor do castelo escocês para pedir conselhos, até brigarmos feio.",
+        "Espalhei através dos jornais que um diretor respeitado e um garoto famoso estavam mentindo sobre o retorno do perigo.",
+        "Fui informado da verdade só depois que o próprio vilão apareceu no meio do meu escritório, visível para todo mundo.",
+        "Perdi meu cargo político logo depois de um confronto público e humilhante dentro do próprio Ministério.",
+        "Sou o ministro da magia teimoso que negou por anos o retorno do bruxo das trevas, até ser forçado a admitir o óbvio."
+      ]
+    },
+    {
+      "id": "mb_045",
+      "type": "PESSOA",
+      "answer": "Bartô Crouch Jr.",
+      "clues": [
+        "Fui condenado à prisão dos bruxos ainda jovem, denunciado pelo meu próprio pai.",
+        "Minha mãe trocou de lugar comigo na cela, disfarçada com uma poção, para eu escapar sem ninguém perceber.",
+        "Passei um ano inteiro fingindo ser outra pessoa, bebendo uma poção a cada poucas horas para manter o disfarce.",
+        "Manipulei um torneio inteiro entre escolas só para garantir que um garoto específico vencesse e caísse numa armadilha.",
+        "Escondi um perseguidor dentro de um baú fechado embaixo da minha própria cama disfarçada.",
+        "Coloquei o nome de um aluno menor de idade num objeto mágico que deveria escolher só maiores.",
+        "Fui capturado e tive minha alma sugada por um guardião encapuzado antes mesmo de contar tudo em julgamento.",
+        "Servi ao meu mestre até o fim, mesmo depois de anos fingindo lealdade ao lado errado.",
+        "Vivi disfarçado de perna de pau e olho mágico giratório, enganando até quem convivia comigo todos os dias.",
+        "Sou o comensal da morte fugitivo que passou um ano inteiro disfarçado de um caçador de bruxos paranoico para entregar um aluno ao bruxo sem nariz."
+      ]
+    },
+    {
+      "id": "mb_046",
+      "type": "PESSOA",
+      "answer": "Narcisa Malfoy",
+      "clues": [
+        "Sou irmã de uma comensal fanática, mas nunca cheguei a receber a marca no braço como ela.",
+        "Fiquei desesperada quando meu filho recebeu uma missão impossível demais para a idade dele.",
+        "Menti para o bruxo mais temido do mundo, na cara dele, só para poder voltar correndo para dentro do castelo.",
+        "Toquei o peito de um garoto caído numa floresta, fingindo checar se ele estava morto, só perguntando sobre o meu próprio filho.",
+        "Sou casada com um aristocrata loiro que perdeu prestígio depois de vários fracassos.",
+        "Recebi comensais da morte dentro da minha própria mansão, sem nunca me sentir confortável com aquilo.",
+        "Escolhi trair meu mestre no momento decisivo, só para salvar quem eu mais amava.",
+        "Tenho cabelo loiro claro e postura elegante, e trato tudo com frieza aristocrática.",
+        "Abandonei uma batalha inteira no meio, sem nem olhar para trás, assim que soube que meu filho estava vivo.",
+        "Sou a mãe loira e aristocrata que traiu o próprio mestre com uma mentira, só para salvar o filho esnobe da casa das cobras."
+      ]
+    },
+    {
+      "id": "mb_047",
+      "type": "PESSOA",
+      "answer": "Regulus Black",
+      "clues": [
+        "Sou irmão mais novo de um fugitivo condenado injustamente, e escolhi um caminho bem diferente do dele no início.",
+        "Entrei bem jovem para o grupo de seguidores do bruxo das trevas, buscando aprovação da minha família.",
+        "Descobri um segredo terrível sobre como meu mestre garantia a própria imortalidade, usando o elfo da minha família como instrumento.",
+        "Troquei um objeto perigoso por uma cópia falsa, deixando um bilhete assinado só com iniciais.",
+        "Mandei meu elfo doméstico embora antes de completar uma missão da qual eu não voltaria vivo.",
+        "Morri afogado, puxado por mãos geladas dentro de um lago escondido numa caverna.",
+        "Bebi uma poção amaldiçoada até o fim só para conseguir alcançar o objeto que eu precisava roubar.",
+        "Meu próprio nome ficou esquecido por anos, riscado da tapeçaria genealógica da minha família junto com o do meu irmão.",
+        "Meu elfo doméstico guardou minha última ordem por décadas, esperando alguém digno de ouvi-la.",
+        "Sou o irmão mais novo que trocou de lado no fim, sacrificando a própria vida para roubar um dos pedaços de alma escondidos do bruxo sem nariz."
+      ]
+    },
+    {
+      "id": "mb_048",
+      "type": "PESSOA",
+      "answer": "Petúnia Dursley",
+      "clues": [
+        "Minha irmã mais nova tinha um dom que eu nunca tive, e isso me corroeu por anos.",
+        "Escondi de todo mundo, inclusive de mim mesma, o quanto sentia falta da minha própria irmã depois que ela morreu.",
+        "Recebi um bebê na porta de casa, junto com uma carta, e decidi criar aquela criança escondendo dela toda a verdade.",
+        "Adoro fofocar sobre os vizinhos e finjo que minha família é perfeitamente comum.",
+        "Fiz meu sobrinho dormir num armário embaixo da escada por anos, enquanto meu próprio filho tinha dois quartos.",
+        "Sou magra, tenho pescoço comprido e adoro espiar a vida alheia por trás da cortina da sala.",
+        "Fingi durante anos que magia era só um absurdo inventado, mesmo sabendo perfeitamente que não era.",
+        "Protegi, sem querer admitir, um sobrinho que eu tratava com desprezo na frente de todo mundo.",
+        "Nunca perdoei minha própria irmã por ter escolhido um caminho tão diferente do meu.",
+        "Sou a tia magricela e fofoqueira que criou o garoto de cicatriz contra a vontade, escondendo dele a verdade sobre os próprios pais."
+      ]
+    },
+    {
+      "id": "mb_049",
+      "type": "PESSOA",
+      "answer": "Válter Dursley",
+      "clues": [
+        "Vendo furadeiras para viver e me orgulho de ter uma vida absolutamente comum.",
+        "Entro em pânico só de ver uma coruja de dia, batendo na janela da minha sala.",
+        "Tentei impedir a entrega de cartas insistentes fugindo com a família até uma cabana numa ilha no meio do mar.",
+        "Tenho bigode grosso, pescoço curto e fico vermelho quando fico bravo, o que acontece com bastante frequência.",
+        "Trato meu próprio sobrinho pior do que trato o cachorro dos vizinhos.",
+        "Mimei meu filho até ele ficar redondo e mal-educado, dando tudo que ele pedia.",
+        "Proibi qualquer menção à palavra que começa com a letra M dentro da minha própria casa.",
+        "Fiquei apavorado quando um gigante barbudo arrombou a porta da minha cabana só para entregar uma carta.",
+        "Escondi de um menino, por anos, a verdade sobre como os pais dele realmente morreram.",
+        "Sou o tio corpulento e mal-humorado que odeia magia, e fez de tudo para impedir que o sobrinho soubesse quem ele era."
+      ]
+    },
+    {
+      "id": "mb_050",
+      "type": "PESSOA",
+      "answer": "Duda Dursley",
+      "clues": [
+        "Fui criado como filho único e mimado, ganhando presente atrás de presente por qualquer birra.",
+        "Perseguia meu primo pela vizinhança com uma gangue de amigos, só por diversão cruel.",
+        "Fiquei gordinho de tanto doce quando criança, e minha mãe media meu peso comemorando cada quilo a mais.",
+        "Fui atacado por criaturas encapuzadas que sugam felicidade, numa rua escura perto de casa.",
+        "Depois daquele ataque, comecei aos poucos a enxergar meu primo de um jeito diferente.",
+        "Virei boxeador amador quando fiquei mais velho, perdendo boa parte do peso que tinha na infância.",
+        "Tenho um quarto extra só para guardar brinquedos quebrados, enquanto meu primo dormia num armário.",
+        "Agradeci ao meu primo, sem jeito, pouco antes da minha família fugir para se esconder.",
+        "Meus pais nunca admitiram que eu era mimado demais, mesmo quando ficou óbvio para todo mundo.",
+        "Sou o primo mimado e corpulento que perseguia o garoto de cicatriz na infância, até um ataque de criaturas sombrias mudar um pouco a minha cabeça."
+      ]
+    },
+    {
+      "id": "mb_051",
+      "type": "PESSOA",
+      "answer": "Xenofílio Lovegood",
+      "clues": [
+        "Edito uma revista cheia de teorias malucas que praticamente ninguém mais leva a sério.",
+        "Moro numa casa em formato de peça de xadrez gigante, no meio do campo.",
+        "Acredito piamente em criaturas que a maioria considera pura lenda, e imprimo isso como fato.",
+        "Uso roupas amarelas berrantes e um colar de rolhas de cerveja amanteigada.",
+        "Sou pai de uma garota sonhadora que fala verdades incômodas sem se importar com a opinião alheia.",
+        "Publiquei uma entrevista importante que o jornal oficial do mundo bruxo se recusou a estampar.",
+        "Uso um símbolo de triângulo com um olho dentro pendurado no pescoço, como se fosse joia.",
+        "Entreguei visitantes de confiança para o lado errado, desesperado para ter minha filha de volta em segurança.",
+        "Minha filha foi sequestrada como forma de pressão contra mim, por causa de algo que publiquei.",
+        "Sou o pai excêntrico e editor de uma revista de teorias bizarras, que trocou a segurança de visitantes pela vida da própria filha sequestrada."
+      ]
+    },
+    {
+      "id": "mb_052",
+      "type": "PESSOA",
+      "answer": "Colin Creevey",
+      "clues": [
+        "Sou filho de pais completamente comuns, e fiquei maravilhado no instante em que descobri que era bruxo.",
+        "Carrego uma câmera fotográfica para todo lado, tirando fotos sem parar de quem eu mais admiro na escola.",
+        "Fiquei paralisado feito pedra depois de fotografar algo que eu nem devia ter visto de perto.",
+        "Minha câmera quebrada guardava a prova de que uma criatura mortal andava solta pelos corredores.",
+        "Tenho um irmão mais novo que também acabou entrando para a mesma escola de magia.",
+        "Voltei escondido para lutar na batalha final, mesmo sendo menor de idade e proibido de participar.",
+        "Sou pequeno de estatura e cheio de entusiasmo, sempre correndo atrás de autógrafos e fotos.",
+        "Morri lutando bem jovem, na mesma noite em que o castelo inteiro virou campo de batalha.",
+        "Idolatro o garoto de cicatriz desde o primeiro dia em que ouvi falar dele.",
+        "Sou o aluno fotógrafo, nascido de família comum, que idolatrava o garoto de cicatriz e morreu jovem na batalha final do castelo."
+      ]
+    },
+    {
+      "id": "mb_053",
+      "type": "PESSOA",
+      "answer": "Pomona Sprout",
+      "clues": [
+        "Dou aulas sobre plantas mágicas, muitas delas perigosas se manuseadas sem cuidado.",
+        "Sou chefe da casa que mais valoriza lealdade e trabalho duro entre os alunos.",
+        "Uso um chapéu remendado e as unhas sempre sujas de terra.",
+        "Cultivei uma estufa cheia de plantas que gritam quando são arrancadas da terra.",
+        "Ajudei a preparar uma poção que devolveu o movimento a vários alunos petrificados por um olhar mortal.",
+        "Sou robusta, prática e nada de frescura na hora de colocar a mão na terra.",
+        "Lutei na defesa do castelo na batalha final, ao lado de outros professores.",
+        "Cuido de uma estufa inteira reservada só para plantas perigosas demais para alunos mais novos.",
+        "Meus alunos usam protetores de ouvido especiais para não desmaiar durante certas aulas práticas.",
+        "Sou a professora robusta e prática de herbologia, chefe da casa dos texugos, sempre com as mãos sujas de terra."
+      ]
+    },
+    {
+      "id": "mb_054",
+      "type": "PESSOA",
+      "answer": "Rolanda Hooch",
+      "clues": [
+        "Ensino os alunos do primeiro ano a decolar numa vassoura pela primeira vez na vida.",
+        "Tenho olhos amarelados e penetrantes, parecidos com os de um falcão.",
+        "Apito partidas esportivas disputadas em cima de vassoura, sempre atenta a qualquer trapaça.",
+        "Percebi o talento de um garoto novato ao vê-lo pegar de forma impressionante um objeto que caía de uma altura perigosa.",
+        "Tenho cabelo curto e grisalho, e uma postura de quem não aceita desculpas de aluno enrolão.",
+        "Recomendei um aluno de primeiro ano direto para o time titular da própria casa, quebrando uma regra antiga.",
+        "Grito bem alto sempre que alguém quebra as regras básicas de segurança durante o voo.",
+        "Confisco vassouras de quem desobedece minhas instruções durante a aula.",
+        "Sou responsável por manter a ordem durante os jogos mais disputados do calendário escolar.",
+        "Sou a instrutora de voo rígida e observadora, de olhos de falcão, que também apita as partidas do esporte disputado em vassouras."
+      ]
+    },
+    {
+      "id": "mb_055",
+      "type": "PESSOA",
+      "answer": "Gellert Grindelwald",
+      "clues": [
+        "Na juventude, sonhei em dominar o mundo comum ao lado de um amigo brilhante que mais tarde se tornaria meu maior rival.",
+        "Um duelo do qual participei, ainda jovem, terminou com a morte trágica da irmã mais nova do meu melhor amigo.",
+        "Construí minha própria prisão de segurança máxima, sem imaginar que um dia eu mesmo ficaria trancado nela.",
+        "Fui derrotado num duelo lendário considerado um dos mais importantes do século passado.",
+        "Passo décadas preso na própria fortaleza que criei para guardar meus inimigos.",
+        "Recebi a visita do bruxo mais temido do mundo, exigindo que eu revelasse a localização de um objeto poderosíssimo.",
+        "Me recusei a entregar essa informação, mesmo sabendo que aquilo me custaria a vida.",
+        "Fui morto pelo próprio bruxo sem nariz, furioso com a minha recusa em cooperar.",
+        "Tive, décadas atrás, um verão inteiro de amizade intensa e planos grandiosos com um futuro diretor de escola.",
+        "Sou o bruxo das trevas que sonhou em dominar o mundo ao lado do futuro diretor de barba branca, antes de ser derrotado por ele num duelo lendário."
+      ]
+    },
+    {
+      "id": "mb_056",
+      "type": "PESSOA",
+      "answer": "Hedwig",
+      "clues": [
+        "Fui dada de presente por um amigo gigante, na primeira vez em que meu dono foi fazer compras escolares.",
+        "Levo cartas e embrulhos para onde for preciso, voando por longas distâncias sem me cansar.",
+        "Sou branca como neve, com olhos alaranjados, e costumo bicar de leve quem me entrega comida atrasada.",
+        "Fico enjaulada boa parte do verão, e meu dono sempre se sente culpado por isso.",
+        "Entreguei recados importantes durante torneios e crises, sempre pontual apesar do perigo.",
+        "Morri atingida por um feitiço perdido, presa dentro da minha própria gaiola, durante uma fuga desesperada.",
+        "Minha morte marcou o fim de uma era de inocência para o meu dono, bem no início do último confronto.",
+        "Sou o animal de estimação mais fiel de um garoto órfão, presente desde o primeiro contato dele com o mundo mágico.",
+        "Costumo pousar no ombro do meu dono depois de longas entregas, esperando um agrado.",
+        "Sou a coruja branca de estimação do garoto de cicatriz, seu primeiro presente de aniversário no mundo mágico."
+      ]
+    },
+    {
+      "id": "mb_057",
+      "type": "PESSOA",
+      "answer": "Fofo",
+      "clues": [
+        "Fui comprado de um estranho num bar, numa troca que meu dono considerou um ótimo negócio.",
+        "Guardo um alçapão secreto no terceiro andar do castelo, proibido para qualquer aluno.",
+        "Tenho três cabeças, e todas elas ficam agressivas ao mesmo tempo se alguém se aproxima demais.",
+        "Durmo pesado sempre que alguém toca música perto de mim, por mais ameaçador que eu pareça acordado.",
+        "Fui deixado sozinho tomando conta de um tesouro escondido embaixo do meu próprio corpo enorme.",
+        "Meu dono me considera uma gracinha, apesar do tamanho e das três bocas cheias de dentes.",
+        "Alunos entraram escondidos na sala onde eu vigiava, tocando uma harpa encantada para me fazer dormir.",
+        "Sou grande o bastante para bater a cabeça no teto de uma sala inteira.",
+        "Fui deixado de guarda por um gigante bondoso, orgulhoso demais de mim para admitir o perigo que eu representava.",
+        "Sou o cão gigante de três cabeças que guardava um tesouro escondido embaixo de um alçapão, e dormia ao som de música."
+      ]
+    },
+    {
+      "id": "mb_058",
+      "type": "PESSOA",
+      "answer": "Bicho-Papão",
+      "clues": [
+        "Vivo escondido em lugares escuros e apertados, como armários e gavetas fechadas.",
+        "Ninguém sabe realmente qual é a minha forma verdadeira, porque assumo sempre a pior lembrança de quem me encara.",
+        "Um professor gentil e cansado me trouxe para dentro de uma sala de aula, guardado dentro de um armário de madeira.",
+        "Fico ridículo e inofensivo assim que alguém pronuncia um feitiço bem-humorado na minha direção.",
+        "Um aluno gorducho e nervoso me transformou nas roupas extravagantes de uma senhora idosa, deixando todo mundo às gargalhadas.",
+        "Prefiro enfrentar uma pessoa de cada vez, porque encarar vários medos diferentes ao mesmo tempo me deixa confuso.",
+        "Já assumi a forma de uma aranha gigante, de uma múmia enfaixada e até de uma lua cheia ameaçadora.",
+        "Rir de mim é literalmente a única arma capaz de me derrotar.",
+        "Sou usado como exame prático de defesa, escondido dentro de um velho baú de viagem trancado.",
+        "Sou a criatura que vira o pior medo de cada pessoa que me encara, e só perco a força quando alguém consegue rir de mim."
+      ]
+    },
+    {
+      "id": "mb_059",
+      "type": "PESSOA",
+      "answer": "Aragogue",
+      "clues": [
+        "Fui criado em segredo por um guarda-caça gentil, escondido bem no fundo de uma floresta proibida.",
+        "Cheguei ainda dentro de um ovo, escondido dentro de um armário de vassouras do castelo.",
+        "Fui injustamente acusado de matar uma aluna, décadas antes de a verdadeira culpada aparecer.",
+        "Tenho uma colônia enorme de filhos e netos que obedecem só a mim, no meio da mata mais sombria da região.",
+        "Meu criador me visitava escondido, levando comida, mesmo depois de eu crescer o suficiente para virar perigo.",
+        "Quase devorei dois garotos curiosos que foram atrás de pistas escondidas na floresta.",
+        "Morri de velhice, cercado pela minha própria família enorme de oito patas.",
+        "Meu veneno é tão raro e valioso que um professor ganancioso o coletou escondido no meu próprio funeral.",
+        "Sou enorme, peludo e tenho fala própria, diferente da maioria dos da minha espécie.",
+        "Sou a aranha gigante criada em segredo na floresta proibida, acusada injustamente de um crime que nunca cometi."
+      ]
+    },
+    {
+      "id": "mb_060",
+      "type": "PESSOA",
+      "answer": "Norberta",
+      "clues": [
+        "Nasci de um ovo ganho numa aposta de cartas num bar, por um homem encapuzado misterioso.",
+        "Fui chocada dentro de uma cabana de madeira, criando riscos de incêndio toda vez que espirrava fogo.",
+        "Meu criador me tratava como um bebê fofo, mesmo eu crescendo rápido demais para caber ali dentro.",
+        "Tenho escamas pretas e já nasci sabendo cuspir fogo em pequenas rajadas.",
+        "Fui contrabandeada escondida à noite para longe do castelo, escoltada por alunos usando uma capa invisível.",
+        "Um irmão de uma família ruiva trabalha justamente com criaturas como eu, numa reserva estrangeira.",
+        "Meu nome original era masculino, até descobrirem que eu era, na verdade, fêmea.",
+        "Mordi a mão do meu criador de leve, o suficiente para deixar uma bela cicatriz de lembrança.",
+        "Alunos arriscaram detenção só para me levar escondida até o topo de uma torre, de madrugada.",
+        "Sou a dragoa de escamas negras criada escondida numa cabana pelo guarda-caça meio-gigante, contrabandeada depois para uma reserva no exterior."
+      ]
+    },
+    {
+      "id": "mb_061",
+      "type": "PESSOA",
+      "answer": "Nick Quase Sem Cabeça",
+      "clues": [
+        "Morri há séculos, executado por um crime que na verdade eu jamais cometi de propósito.",
+        "Meu carrasco usou um machado cego, e precisou de dezenas de golpes para terminar o trabalho.",
+        "Comemoro todo ano a data da minha própria morte com uma festa chorosa, cheia de comida podre que ninguém consegue comer.",
+        "Sou proibido de entrar num clube exclusivo de fantasmas decapitados, porque minha própria decapitação ficou incompleta.",
+        "Consigo tirar minha cabeça quase inteira do pescoço e balançá-la de um lado para o outro, se alguém insistir muito.",
+        "Assombro a mesma torre há quase quinhentos anos, sempre educado e um pouco melancólico.",
+        "Uso roupas antigas de outra época, cheias de babados no pescoço, apesar de nunca sentir frio.",
+        "Já dei conselhos gentis a alunos assustados no primeiro dia de aula na minha casa.",
+        "Flutuo pelos corredores atravessando paredes, sempre com um ar nostálgico da vida que não tenho mais.",
+        "Sou o fantasma educado e melancólico da casa do leão, decapitado de forma incompleta há séculos por um carrasco desastrado."
+      ]
+    },
+    {
+      "id": "mb_062",
+      "type": "PESSOA",
+      "answer": "Monstro",
+      "clues": [
+        "Sirvo à mesma família de bruxos de sangue-puro há gerações, guardando segredos dentro de uma casa sombria em Londres.",
+        "Odiava secretamente o dono que herdou a casa onde eu trabalhava, e falava mal dele pelos cantos.",
+        "Fui leal, acima de tudo, a um filho mais novo da família que morreu numa missão perigosa.",
+        "Guardei por décadas um objeto perigoso escondido, junto com uma última ordem que jurei cumprir.",
+        "Fui tratado com desprezo a vida inteira, até um novo dono decidir me tratar com um mínimo de respeito.",
+        "Ajudei, sem querer, a colocar um garoto famoso em perigo, seguindo instruções mal-intencionadas de outro elfo.",
+        "Depois de ganhar um medalhão de presente, passei a servir com lealdade completa quem antes eu desprezava.",
+        "Liderei outros elfos domésticos numa cozinha durante a batalha final do castelo, armados com facas de cozinha.",
+        "Tenho orelhas grandes e caídas, e uma pele enrugada e pálida.",
+        "Sou o elfo doméstico rabugento da família de sangue-puro, leal até o fim ao filho mais novo que morreu numa missão secreta."
+      ]
+    },
+    {
+      "id": "mb_063",
+      "type": "PESSOA",
+      "answer": "Duende",
+      "clues": [
+        "Administro o banco mais seguro do mundo bruxo, cavado bem fundo debaixo da terra.",
+        "Acredito que qualquer objeto que a minha espécie fabrica continua sendo nosso para sempre, não importa quem tenha pago por ele.",
+        "Tenho dedos compridos, dentes pontudos e desconfio profundamente de qualquer bruxo que entra no meu local de trabalho.",
+        "Guardo cofres protegidos por feitiços, dragões acorrentados e carrinhos que descem em disparada por túneis.",
+        "A relação entre a minha espécie e os bruxos é marcada por séculos de desconfiança e algumas guerras antigas.",
+        "Ajudei um grupo de invasores a entrar num cofre extremamente protegido, em troca de uma espada lendária prometida.",
+        "Me senti traído quando a promessa feita a mim não foi cumprida como combinado.",
+        "Sou baixinho, com orelhas pontudas, e trabalho atrás de um balcão altíssimo para os padrões humanos.",
+        "Fabrico armas e joias de qualidade rara, capazes de durar séculos sem perder o fio ou o brilho.",
+        "Sou o funcionário baixinho e desconfiado do banco subterrâneo dos bruxos, da mesma espécie que acredita que tudo que fabrica nunca deixa de ser seu."
+      ]
+    },
+    {
+      "id": "mb_064",
+      "type": "COISA",
+      "answer": "Capa da Invisibilidade",
+      "clues": [
+        "Fui herdada de pai para filho, atravessando gerações de uma mesma família há séculos.",
+        "Sou tecida com uma trama tão perfeita que nenhum feitiço de detecção consegue me localizar.",
+        "Fui emprestada por um diretor de barba branca a um aluno órfão, na primeira véspera de Natal dele no castelo.",
+        "Cubro completamente quem me veste, sem deixar nem sombra ou reflexo escapar.",
+        "Sou um dos três objetos lendários que, juntos, tornariam meu dono o senhor da própria morte.",
+        "Fui usada para espionar conversas proibidas e escapar de perigos incontáveis vezes, sem nunca falhar.",
+        "Diferente de cópias comuns, eu nunca perco o efeito nem me desgasto com o tempo.",
+        "Meu dono me emprestou a amigos em momentos críticos, mesmo sabendo do meu valor imenso.",
+        "Fui passada como herança de família, sem que meu dono soubesse, no início, o quanto eu era rara de verdade.",
+        "Sou a capa que torna invisível quem eu cubro, herdada por gerações até chegar às mãos do garoto de cicatriz, um dos três objetos lendários da morte."
+      ]
+    },
+    {
+      "id": "mb_065",
+      "type": "COISA",
+      "answer": "Varinha de Sabugueiro",
+      "clues": [
+        "Sou lendária, feita por uma figura que a própria morte teria criado, segundo uma história antiga contada às crianças.",
+        "Mudo de dono sempre que alguém vence em combate quem me possuía antes, mesmo sem querer.",
+        "Fui disputada por décadas entre bruxos ambiciosos que queriam se tornar invencíveis usando meu poder.",
+        "Um diretor de barba branca me manteve escondida por anos, tentando evitar que eu caísse em mãos erradas.",
+        "Troquei de dono sem que ninguém percebesse, só porque um garoto desarmou outro numa briga qualquer dentro de uma mansão.",
+        "Fui roubada de um túmulo, junto com o corpo do meu antigo dono, por um bruxo desesperado por poder.",
+        "Sou considerada a mais poderosa de todas as varinhas já feitas, mas trago desgraça para quem me busca por ambição.",
+        "No fim de uma longa guerra, fui devolvida ao lugar de descanso do meu dono mais sábio, por escolha própria dele.",
+        "Sou um dos três objetos lendários ligados à morte, junto de uma pedra e de uma capa.",
+        "Sou a varinha mais poderosa já criada, que muda de dono a cada derrota em duelo, disputada até o fim pelo bruxo sem nariz."
+      ]
+    },
+    {
+      "id": "mb_066",
+      "type": "COISA",
+      "answer": "Pedra da Ressurreição",
+      "clues": [
+        "Fui escondida dentro de um anel de família antigo, usado como joia por gerações antes de virar algo bem mais perigoso.",
+        "Um diretor quase morreu ao me colocar no dedo, sem saber da maldição escondida em mim.",
+        "Fui escondida depois dentro de um objeto usado num esporte disputado em vassouras, esperando o momento certo de ser aberta.",
+        "Só revelo meu segredo para quem aceita verdadeiramente o que sou, nunca para quem tenta me forçar.",
+        "Trago de volta, por pouco tempo, a aparência e a voz de quem já morreu — mas nunca a pessoa de verdade.",
+        "Fui usada por um garoto que caminhava para o próprio sacrifício, buscando coragem nas pessoas que ele mais amava.",
+        "Sou um dos três objetos lendários que, juntos, dominariam até a morte.",
+        "Fui jogada fora de propósito na floresta, depois de cumprir meu papel numa noite decisiva.",
+        "Meu poder de trazer os mortos de volta é só uma ilusão reconfortante, nunca uma ressurreição de verdade.",
+        "Sou a pedra capaz de mostrar os mortos por um instante, escondida num pomo de ouro e usada pelo garoto de cicatriz antes do sacrifício final."
+      ]
+    },
+    {
+      "id": "mb_067",
+      "type": "COISA",
+      "answer": "Espada de Godrico Gryffindor",
+      "clues": [
+        "Fui forjada por um artesão da mesma espécie que hoje administra o banco dos bruxos.",
+        "Pertenci a um dos quatro fundadores de uma escola de magia, famoso pela coragem que valorizava acima de tudo.",
+        "Apareço só para quem for verdadeiramente digno, saindo de dentro de um chapéu falante velho.",
+        "Absorvo apenas aquilo que me fortalece, nunca o que tentam usar para me enfraquecer.",
+        "Matei uma serpente gigante e venenosa, ficando encharcada de um veneno raro depois da luta.",
+        "Fui escondida dentro de um lago congelado, esperando que alguém corajoso mergulhasse atrás de mim.",
+        "Destruí, com meu fio, mais de um pedaço de alma escondido pelo bruxo das trevas em objetos amaldiçoados.",
+        "Tenho um cabo cravejado de rubis enormes e brilhantes.",
+        "Fui usada por mais de um aluno corajoso ao longo de gerações diferentes, sempre em momentos de desespero.",
+        "Sou a espada cravejada de rubis do fundador mais corajoso da escola, capaz de destruir pedaços de alma amaldiçoados."
+      ]
+    },
+    {
+      "id": "mb_068",
+      "type": "COISA",
+      "answer": "Medalhão de Salazar Slytherin",
+      "clues": [
+        "Sou uma joia antiga de família, herdada de um dos quatro fundadores de uma escola de magia.",
+        "Fui transformado num esconderijo secreto para um pedaço de alma, sem meu valor original importar mais depois disso.",
+        "Fui trocado por uma cópia falsa por um jovem bruxo arrependido, que morreu tentando me destruir de verdade.",
+        "Passei de mão em mão, entre um elfo doméstico leal, um ladrão oportunista e uma burocrata de rosa que me usava como joia.",
+        "Deixo quem me carrega no pescoço mais irritado, desconfiado e infeliz, quanto mais tempo me usa.",
+        "Fui recuperado escondido dentro de uma bolsa mágica minúscula, capaz de guardar muito mais do que o tamanho sugere.",
+        "Sussurro palavras cruéis e tentadoras para quem tenta me destruir, mexendo com os maiores medos da pessoa.",
+        "Fui finalmente destruído a golpes de espada, por alguém que hesitava em acreditar no próprio valor.",
+        "Guardei dentro de mim, por décadas, um fragmento da alma do bruxo mais temido do mundo.",
+        "Sou o medalhão de herança que virou esconderijo de um pedaço de alma do bruxo sem nariz, destruído a golpes de espada por um dos melhores amigos do garoto de cicatriz."
+      ]
+    },
+    {
+      "id": "mb_069",
+      "type": "COISA",
+      "answer": "Pomo de Ouro",
+      "clues": [
+        "Sou pequeno, dourado e tenho asas prateadas que batem tão rápido que quase somem da vista.",
+        "Fui capturado quase sendo engolido, na primeira partida de um garoto novato num esporte disputado em vassouras.",
+        "Fui deixado de herança pelo diretor mais sábio da escola, dentro de um testamento lido depois da morte dele.",
+        "Só abro para quem eu reconheço como meu verdadeiro dono, e só no momento certo.",
+        "Uma frase sussurrada sobre finais e começos é a chave para eu me abrir.",
+        "Escondo dentro de mim um segredo que só foi descoberto muito tempo depois de eu ser entregue.",
+        "Fui guardado por meses sem que meu dono soubesse o real motivo de ter me recebido.",
+        "Capturar alguém da minha espécie encerra uma partida inteira, valendo mais pontos do que qualquer outra jogada.",
+        "Guardo dentro de mim uma pedra capaz de trazer, por instantes, a aparência de quem já morreu.",
+        "Sou a bolinha voadora dourada e alada deixada de herança pelo diretor de barba branca ao garoto de cicatriz, escondendo dentro de mim a pedra da ressurreição."
+      ]
+    },
+    {
+      "id": "mb_070",
+      "type": "COISA",
+      "answer": "Poção Polissuco",
+      "clues": [
+        "Fui preparada em segredo, num banheiro interditado, por uma aluna disposta a roubar ingredientes proibidos para me fazer.",
+        "Preciso de um pedacinho físico de outra pessoa para funcionar — um fio de cabelo já basta.",
+        "Transformo completamente quem me bebe na aparência exata de outra pessoa, por apenas uma hora.",
+        "Fui usada por dois garotos disfarçados de colegas grandalhões, só para bisbilhotar dentro de uma sala comunal rival.",
+        "Meu efeito falha de forma cômica quando o pedacinho usado não é realmente humano.",
+        "Sete pessoas diferentes me beberam na mesma noite, todas se transformando na aparência de um único garoto famoso, para confundir perseguidores.",
+        "Sou complexa demais para qualquer aluno preparar sozinho sem ajuda de um livro avançado, escondido numa seção restrita.",
+        "Tenho gosto e cheiro que mudam dependendo de quem forneceu o pedacinho usado na receita.",
+        "Sou ilegal quando usada para se passar por funcionários do governo mágico sem registro.",
+        "Sou a poção que transforma completamente a aparência de quem me bebe na de outra pessoa, por uma hora inteira, usando um pedaço físico dela."
       ]
     }
   ]

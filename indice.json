@@ -73,12 +73,12 @@
         "nome": "Cinema Clássico",
         "icone": "🎬"
       },
-      "versao": 1,
+      "versao": 2,
       "estado": "EM_DESENVOLVIMENTO",
-      "quantidadeDeCards": 30,
+      "quantidadeDeCards": 70,
       "url": "https://raw.githubusercontent.com/Fehhhh94/QuemSou-Baralhos/main/baralhos/mundo-dos-bruxos-1.json",
       "descricao": "Feiticeiros, criaturas encantadas e objetos mágicos de uma escola de magia num castelo escocês.",
-      "tamanhoEmBytes": 31081
+      "tamanhoEmBytes": 81274
     }
   ]
 }

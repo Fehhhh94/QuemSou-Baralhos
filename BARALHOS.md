@@ -25,10 +25,13 @@ reversível — o JSON do baralho nunca é deletado).
    EM_DESENVOLVIMENTO v1, já no índice); régua aprovada; revisão humana
    das dicas pendente.
 2. Mundo dos Bruxos — Edição 1 · 🎬 Cinema Clássico · PERSONAGEM_FILME ·
-   EM PRODUÇÃO (2026-07-26) Recorte: universo bruxo — 20 personagens, 5
-   criaturas, 5 objetos. Gerado como `baralhos/mundo-dos-bruxos-1.json`
-   (30 cards, EM_DESENVOLVIMENTO v1, já no índice); régua aprovada
-   (`validarCatalogo` exit 0); revisão humana das dicas pendente.
+   EM PRODUÇÃO (2026-08-01) Recorte: universo bruxo — 45 personagens, 13
+   criaturas, 12 objetos (70 cards no total). Gerado como
+   `baralhos/mundo-dos-bruxos-1.json` (EM_DESENVOLVIMENTO v2, já no
+   índice); expandido de 30→70 cards em 2026-08-01 (`mb_031`–`mb_070`
+   novos: 25 personagens, 8 criaturas, 7 objetos; `mb_001`–`mb_030`
+   intocados, ids imutáveis); régua aprovada (`validarCatalogo` exit 0);
+   revisão humana das dicas pendente (dos 40 cards novos).
    Restrições editoriais próprias deste baralho, decididas pelo Felipe:
    nenhuma dica, nem o nome, nem a descrição citam a marca registrada ou
    o título da obra, e não há citação literal de fala dos livros ou
